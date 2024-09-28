@@ -1,0 +1,2158 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+    "section": "Business",
+    "last_updated": "2024-09-17T05:24:07-04:00",
+    "num_results": 34,
+    "results": [
+      {
+        "section": "business",
+        "subsection": "",
+        "title": "What Fed Rate Cuts Will Mean for Five Areas of Your Financial Life",
+        "abstract": "Here’s what lowered interest rates will mean for your car loans, credit cards, mortgages, savings and student loans.",
+        "url": "https://www.nytimes.com/2024/09/17/business/fed-rates-mortgages-car-loans.html",
+        "uri": "nyt://article/4b32310a-4475-5daa-a513-f58efca54fd5",
+        "byline": "By Ron Lieber and Tara Siegel Bernard",
+        "item_type": "Article",
+        "updated_date": "2024-09-17T05:04:37-04:00",
+        "created_date": "2024-09-17T05:04:37-04:00",
+        "published_date": "2024-09-17T05:04:37-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Personal Finances",
+          "Interest Rates",
+          "Mortgages",
+          "Automobiles",
+          "Credit Cards",
+          "Savings",
+          "Student Loans",
+          "Savings and Loan Associations",
+          "Content Type: Service"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/18/business/00rates-service-SUB/00rates-service-SUB-superJumbo.png",
+            "format": "Super Jumbo",
+            "height": 1434,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Kyle Ellingson"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/18/business/00rates-service-SUB/00rates-service-SUB-threeByTwoSmallAt2X.png",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Kyle Ellingson"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/18/business/00rates-service-SUB/00rates-service-SUB-thumbLarge.png",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Kyle Ellingson"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "",
+        "title": "China’s ‘Silver Economy’ Is Thriving as Birthrate Plunges",
+        "abstract": "The shrinking population poses threats to growth but has opened opportunities for businesses that serve seniors.",
+        "url": "https://www.nytimes.com/2024/09/17/business/china-economy-seniors.html",
+        "uri": "nyt://article/90e2fb80-c710-5fba-9216-6c8948a3892c",
+        "byline": "By Claire Fu and Daisuke Wakabayashi",
+        "item_type": "Article",
+        "updated_date": "2024-09-17T04:02:22-04:00",
+        "created_date": "2024-09-17T00:00:19-04:00",
+        "published_date": "2024-09-17T00:00:19-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Economic Conditions and Trends",
+          "Birth Rates",
+          "Elderly"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+          "China"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/13/multimedia/00china-silver-economy-01-ghcv/00china-silver-economy-01-ghcv-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Schools for children have been turned into education centers offering activities for seniors like singing, dancing and art classes.",
+            "copyright": "Gilles Sabrié for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/13/multimedia/00china-silver-economy-01-ghcv/00china-silver-economy-01-ghcv-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Schools for children have been turned into education centers offering activities for seniors like singing, dancing and art classes.",
+            "copyright": "Gilles Sabrié for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/13/multimedia/00china-silver-economy-01-ghcv/00china-silver-economy-01-ghcv-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Schools for children have been turned into education centers offering activities for seniors like singing, dancing and art classes.",
+            "copyright": "Gilles Sabrié for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "technology",
+        "subsection": "",
+        "title": "Meta Plans to Bar the Russian TV Network RT From Its Apps",
+        "abstract": "The Facebook and Instagram owner said it would bar Russian media outlets including RT, which the U.S. has accused of acting as an intelligence arm.",
+        "url": "https://www.nytimes.com/2024/09/17/technology/meta-rt-russian-tv.html",
+        "uri": "nyt://article/4440023b-eaf2-5727-a415-cfc84f6d882e",
+        "byline": "By Mike Isaac and Sheera Frenkel",
+        "item_type": "Article",
+        "updated_date": "2024-09-17T03:54:53-04:00",
+        "created_date": "2024-09-17T01:21:44-04:00",
+        "published_date": "2024-09-17T01:21:44-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Social Media",
+          "Rumors and Misinformation",
+          "Television",
+          "Presidential Election of 2024",
+          "Computers and the Internet",
+          "United States International Relations",
+          "Espionage and Intelligence Services",
+          "Russian Interference in 2016 US Elections and Ties to Trump Associates"
+        ],
+        "org_facet": [
+          "Facebook Inc",
+          "Instagram Inc",
+          "Meta Platforms Inc",
+          "RT (TV Network)"
+        ],
+        "per_facet": [
+          "Clegg, Nick"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17meta-rt-qkbf/17meta-rt-qkbf-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Meta, which owns Facebook, Instagram and WhatsApp, said the ban would take place in the coming days.",
+            "copyright": "Jim Wilson/The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17meta-rt-qkbf/17meta-rt-qkbf-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Meta, which owns Facebook, Instagram and WhatsApp, said the ban would take place in the coming days.",
+            "copyright": "Jim Wilson/The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17meta-rt-qkbf/17meta-rt-qkbf-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Meta, which owns Facebook, Instagram and WhatsApp, said the ban would take place in the coming days.",
+            "copyright": "Jim Wilson/The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Will Lower Rates Unleash a Business Boom? It’s Complicated.",
+        "abstract": "For corporate America, this week’s expected interest rate cut carries risks along with rewards.",
+        "url": "https://www.nytimes.com/2024/09/17/business/economy/fed-rate-cut-business-effects.html",
+        "uri": "nyt://article/3984b286-4465-5ee1-939d-d9afa6f68d23",
+        "byline": "By Rob Copeland, Joe Rennison and Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2024-09-17T05:01:11-04:00",
+        "created_date": "2024-09-17T05:01:11-04:00",
+        "published_date": "2024-09-17T05:01:11-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Banking and Financial Institutions",
+          "Interest Rates",
+          "Government Bonds",
+          "Stocks and Bonds",
+          "Standard & Poor's 500-Stock Index",
+          "Corporations",
+          "Credit and Debt",
+          "United States Economy",
+          "Inflation (Economics)",
+          "Junk Bonds",
+          "Real Estate (Commercial)"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17rates-business-01-ltkw/17rates-business-01-ltkw-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The Federal Reserve is expected to cut interest rates this week, by either a quarter or a half a percentage point.",
+            "copyright": "Haiyun Jiang/The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17rates-business-01-ltkw/17rates-business-01-ltkw-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The Federal Reserve is expected to cut interest rates this week, by either a quarter or a half a percentage point.",
+            "copyright": "Haiyun Jiang/The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17rates-business-01-ltkw/17rates-business-01-ltkw-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The Federal Reserve is expected to cut interest rates this week, by either a quarter or a half a percentage point.",
+            "copyright": "Haiyun Jiang/The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "technology",
+        "subsection": "",
+        "title": "Trump Rolls Out His New Cryptocurrency Business",
+        "abstract": "In a livestream, Donald Trump formally introduced World Liberty Financial, a crypto venture led by two digital currency entrepreneurs with little experience running high-profile businesses.",
+        "url": "https://www.nytimes.com/2024/09/16/technology/trump-crypto-world-liberty-financial.html",
+        "uri": "nyt://article/72f20ffa-8d30-53e9-a281-ee2bb883e0f1",
+        "byline": "By David Yaffe-Bellany, Sharon LaFraniere and Matthew Goldstein",
+        "item_type": "Article",
+        "updated_date": "2024-09-17T00:58:51-04:00",
+        "created_date": "2024-09-16T21:43:50-04:00",
+        "published_date": "2024-09-16T21:43:50-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Conflicts of Interest",
+          "Virtual Currency",
+          "Regulation and Deregulation of Industry",
+          "Presidential Election of 2024",
+          "Social Media",
+          "Computers and the Internet",
+          "Ethics and Official Misconduct",
+          "Entrepreneurship"
+        ],
+        "org_facet": [
+          "Trump Media & Technology Group",
+          "Trump Organization",
+          "World Liberty Financial",
+          "Truth Social (Social Network)"
+        ],
+        "per_facet": [
+          "Trump, Donald J",
+          "Trump, Barron (2006- )",
+          "Witkoff, Steven"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16trump-crypto-mzfb/16trump-crypto-mzfb-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Former President Donald J. Trump’s involvement in World Liberty Financial has raised concerns about conflicts of interest and alarmed some of his most vocal supporters in the industry.",
+            "copyright": "Kenny Holston/The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16trump-crypto-mzfb/16trump-crypto-mzfb-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Former President Donald J. Trump’s involvement in World Liberty Financial has raised concerns about conflicts of interest and alarmed some of his most vocal supporters in the industry.",
+            "copyright": "Kenny Holston/The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16trump-crypto-mzfb/16trump-crypto-mzfb-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Former President Donald J. Trump’s involvement in World Liberty Financial has raised concerns about conflicts of interest and alarmed some of his most vocal supporters in the industry.",
+            "copyright": "Kenny Holston/The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "",
+        "title": "A.I. Pioneers Call for Protections Against ‘Catastrophic Risks’",
+        "abstract": "Scientists from the United States, China and other nations called for an international authority to oversee artificial intelligence.",
+        "url": "https://www.nytimes.com/2024/09/16/business/china-ai-safety.html",
+        "uri": "nyt://article/f0ac8084-e4c6-5000-958d-c0b5acf4728d",
+        "byline": "By Meaghan Tobin",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T23:34:48-04:00",
+        "created_date": "2024-09-16T12:21:59-04:00",
+        "published_date": "2024-09-16T12:21:59-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Artificial Intelligence",
+          "Science and Technology"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Bengio, Yoshua",
+          "Hinton, Geoffrey E"
+        ],
+        "geo_facet": [
+          "China"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16china-ai-01-zjbh/16china-ai-01-zjbh-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "From left: Stuart Russell, Andrew Yao, Yoshua Bengio and Ya-Qin Zhang are among the influential A.I. scientists who called for international collaboration to prevent serious risks posed by the technology.",
+            "copyright": "Massimo Pistore"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16china-ai-01-zjbh/16china-ai-01-zjbh-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "From left: Stuart Russell, Andrew Yao, Yoshua Bengio and Ya-Qin Zhang are among the influential A.I. scientists who called for international collaboration to prevent serious risks posed by the technology.",
+            "copyright": "Massimo Pistore"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16china-ai-01-zjbh/16china-ai-01-zjbh-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "From left: Stuart Russell, Andrew Yao, Yoshua Bengio and Ya-Qin Zhang are among the influential A.I. scientists who called for international collaboration to prevent serious risks posed by the technology.",
+            "copyright": "Massimo Pistore"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Intel, Aiming to Reverse Slump, Unveils New Contracts and Cost Cuts",
+        "abstract": "The chipmaker, which has been struggling, said on Monday that it obtained a new government grant, signed a contract with Amazon and would pause some initiatives.",
+        "url": "https://www.nytimes.com/2024/09/16/us/politics/intel-chips-semiconductor-grant.html",
+        "uri": "nyt://article/d0d1189a-5f68-5108-bfdb-e19424ff7d82",
+        "byline": "By Don Clark, Madeleine Ngo and Ana Swanson",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T23:35:01-04:00",
+        "created_date": "2024-09-16T15:46:24-04:00",
+        "published_date": "2024-09-16T15:46:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Computer Chips",
+          "United States Politics and Government",
+          "Federal Aid (US)"
+        ],
+        "org_facet": [
+          "Intel Corporation"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16DC-INTEL-lwcf/16DC-INTEL-lwcf-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 2048,
+            "width": 1367,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The $3 billion in funding that the Biden administration announced Monday follows the award Intel received about six months ago of up to $8.5 billion.",
+            "copyright": "Philip Cheung for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16DC-INTEL-lwcf/16DC-INTEL-lwcf-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The $3 billion in funding that the Biden administration announced Monday follows the award Intel received about six months ago of up to $8.5 billion.",
+            "copyright": "Philip Cheung for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16DC-INTEL-lwcf/16DC-INTEL-lwcf-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The $3 billion in funding that the Biden administration announced Monday follows the award Intel received about six months ago of up to $8.5 billion.",
+            "copyright": "Philip Cheung for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Nevada’s Struggling Economy Is a Wild Card in the Presidential Race",
+        "abstract": "The state is among a handful that will decide the presidential contest, and workers have felt increased prices at the grocery store and gas station.",
+        "url": "https://www.nytimes.com/2024/09/16/business/economy/nevada-economy-unemployment-election.html",
+        "uri": "nyt://article/5ef1ed93-da81-54d8-b165-67feab079e90",
+        "byline": "By Kurtis Lee",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T14:18:36-04:00",
+        "created_date": "2024-09-16T12:14:27-04:00",
+        "published_date": "2024-09-16T12:14:27-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Presidential Election of 2024",
+          "Economic Conditions and Trends",
+          "Tips and Tipping",
+          "Income Tax",
+          "Labor and Jobs",
+          "Prices (Fares, Fees and Rates)",
+          "Unemployment",
+          "Inflation (Economics)",
+          "Hotels and Travel Lodgings",
+          "Polls and Public Opinion"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Harris, Kamala D",
+          "Trump, Donald J"
+        ],
+        "geo_facet": [
+          "Las Vegas (Nev)",
+          "Nevada"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/12/multimedia/00nevada-econ01-wlgf/00nevada-econ01-wlgf-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1366,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Las Vegas has rebounded since the pandemic shutdowns, but its unemployment rate was 6.7 percent in July.",
+            "copyright": "Maggie Shannon for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/12/multimedia/00nevada-econ01-wlgf/00nevada-econ01-wlgf-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Las Vegas has rebounded since the pandemic shutdowns, but its unemployment rate was 6.7 percent in July.",
+            "copyright": "Maggie Shannon for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/12/multimedia/00nevada-econ01-wlgf/00nevada-econ01-wlgf-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Las Vegas has rebounded since the pandemic shutdowns, but its unemployment rate was 6.7 percent in July.",
+            "copyright": "Maggie Shannon for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "technology",
+        "subsection": "",
+        "title": "YouTube CEO Says Google Faces Plenty of Ad Tech Competition",
+        "abstract": "Kicking off the second week of an antitrust trial, Neal Mohan testified that Google did what was best for consumers and the ad industry.",
+        "url": "https://www.nytimes.com/2024/09/16/technology/google-antitrust-youtube-ceo.html",
+        "uri": "nyt://article/1b80d31e-1f35-5543-9264-92ffe8477566",
+        "byline": "By Cecilia Kang",
+        "item_type": "Article",
+        "updated_date": "2024-09-17T06:03:40-04:00",
+        "created_date": "2024-09-16T14:56:20-04:00",
+        "published_date": "2024-09-16T14:56:20-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Online Advertising",
+          "Antitrust Laws and Competition Issues",
+          "Search Engines",
+          "Advertising and Marketing",
+          "Computers and the Internet"
+        ],
+        "org_facet": [
+          "Google Inc",
+          "Justice Department",
+          "YouTube.com"
+        ],
+        "per_facet": [
+          "Mohan, Neal"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16google-mohan-HFO-1-gfwt/16google-mohan-HFO-1-gfwt-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1366,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "YouTube’s chief executive, Neal Mohan, arrives at the Albert V. Bryan U.S. Courthouse for the trial of the Google antitrust lawsuit in Alexandria, Va., on Monday.",
+            "copyright": "Pete Marovich for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16google-mohan-HFO-1-gfwt/16google-mohan-HFO-1-gfwt-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "YouTube’s chief executive, Neal Mohan, arrives at the Albert V. Bryan U.S. Courthouse for the trial of the Google antitrust lawsuit in Alexandria, Va., on Monday.",
+            "copyright": "Pete Marovich for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16google-mohan-HFO-1-gfwt/16google-mohan-HFO-1-gfwt-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "YouTube’s chief executive, Neal Mohan, arrives at the Albert V. Bryan U.S. Courthouse for the trial of the Google antitrust lawsuit in Alexandria, Va., on Monday.",
+            "copyright": "Pete Marovich for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "travel",
+        "subsection": "",
+        "title": "Tony Robbins: Motivational Speaker, Author … Hotelier?",
+        "abstract": "The self-help guru is joining the hotel mogul Sam Nazarian to open a chain of luxury preventive-medicine resorts, aiming for a slice of the $5.6 trillion wellness industry.",
+        "url": "https://www.nytimes.com/2024/09/16/travel/tony-robbins-hotel-estate.html",
+        "uri": "nyt://article/fa37edc4-1b82-583c-acab-aad67b59f4bf",
+        "byline": "By Nora Walsh",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T19:04:00-04:00",
+        "created_date": "2024-09-16T19:04:00-04:00",
+        "published_date": "2024-09-16T19:04:00-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Travel and Vacations",
+          "Preventive Medicine",
+          "Hotels and Travel Lodgings"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Robbins, Tony"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16robbins-hotel-zvtc/16robbins-hotel-zvtc-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1003,
+            "width": 1507,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The speaker and author Tony Robbins is adding a wellness-focused hotel chain to his self-help empire.",
+            "copyright": "Amy Sussman/Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16robbins-hotel-zvtc/16robbins-hotel-zvtc-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The speaker and author Tony Robbins is adding a wellness-focused hotel chain to his self-help empire.",
+            "copyright": "Amy Sussman/Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16robbins-hotel-zvtc/16robbins-hotel-zvtc-thumbLarge-v2.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The speaker and author Tony Robbins is adding a wellness-focused hotel chain to his self-help empire.",
+            "copyright": "Amy Sussman/Getty Images"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "media",
+        "title": "Emmy Viewership Rises to 6.9 Million Viewers",
+        "abstract": "The uptick puts the Emmys among the award shows, such as the Oscars, that have had audience gains in the past few years.",
+        "url": "https://www.nytimes.com/2024/09/16/business/media/emmy-viewership-nielsen.html",
+        "uri": "nyt://article/66c7c1e2-d345-5bfe-b4cf-1143036b1111",
+        "byline": "By John Koblin",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T19:38:30-04:00",
+        "created_date": "2024-09-16T18:34:05-04:00",
+        "published_date": "2024-09-16T18:34:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Television",
+          "Emmy Awards",
+          "Ratings (Audience Measurement)"
+        ],
+        "org_facet": [
+          "ABC Inc"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16emmy-ratings-bwlj/16emmy-ratings-bwlj-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "“Shogun” actors Anna Sawai and Hiroyuki Sanada were among the winners at the 76th annual Emmy Awards ceremony on Sunday.",
+            "copyright": "Allison Dinner/EPA, via Shutterstock"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16emmy-ratings-bwlj/16emmy-ratings-bwlj-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "“Shogun” actors Anna Sawai and Hiroyuki Sanada were among the winners at the 76th annual Emmy Awards ceremony on Sunday.",
+            "copyright": "Allison Dinner/EPA, via Shutterstock"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16emmy-ratings-bwlj/16emmy-ratings-bwlj-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "“Shogun” actors Anna Sawai and Hiroyuki Sanada were among the winners at the 76th annual Emmy Awards ceremony on Sunday.",
+            "copyright": "Allison Dinner/EPA, via Shutterstock"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "technology",
+        "subsection": "",
+        "title": "Amazon Tells Corporate Workers to Be Back in the Office 5 Days a Week",
+        "abstract": "The internet giant told employees on Monday that it expected them to return to the office full-time in January.",
+        "url": "https://www.nytimes.com/2024/09/16/technology/amazon-return-to-office.html",
+        "uri": "nyt://article/8a9ac4e8-b28f-5cd5-9871-87b2fbf13455",
+        "byline": "By Karen Weise and Emma Goldberg",
+        "item_type": "Article",
+        "updated_date": "2024-09-17T05:50:33-04:00",
+        "created_date": "2024-09-16T16:58:38-04:00",
+        "published_date": "2024-09-16T16:58:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Labor and Jobs",
+          "Workplace Environment",
+          "Coronavirus Return to Office",
+          "Computers and the Internet"
+        ],
+        "org_facet": [
+          "Amazon.com Inc"
+        ],
+        "per_facet": [
+          "Jassy, Andrew R"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16AMAZON-RTO-1-wcqv/16AMAZON-RTO-1-wcqv-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Amazon employees at the company’s Seattle headquarters protested a partial return to office mandate last year.",
+            "copyright": "Grant Hindsley for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16AMAZON-RTO-1-wcqv/16AMAZON-RTO-1-wcqv-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Amazon employees at the company’s Seattle headquarters protested a partial return to office mandate last year.",
+            "copyright": "Grant Hindsley for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16AMAZON-RTO-1-wcqv/16AMAZON-RTO-1-wcqv-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Amazon employees at the company’s Seattle headquarters protested a partial return to office mandate last year.",
+            "copyright": "Grant Hindsley for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "technology",
+        "subsection": "",
+        "title": "Judges Show Some Skepticism of TikTok’s Fight Against Potential U.S. Ban",
+        "abstract": "TikTok on Monday pushed back against a law that would force the popular video app to sell to a non-Chinese owner or be banned, in what is shaping up to be a landmark case.",
+        "url": "https://www.nytimes.com/2024/09/16/technology/tiktok-us-ban-case.html",
+        "uri": "nyt://article/2ee0365b-7aa9-53ce-91f9-9cdc061bf0cc",
+        "byline": "By Sapna Maheshwari and David McCabe",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T23:33:07-04:00",
+        "created_date": "2024-09-16T14:50:57-04:00",
+        "published_date": "2024-09-16T14:50:57-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Politics and Government",
+          "Computers and the Internet",
+          "Mobile Applications",
+          "Freedom of Speech and Expression",
+          "Mergers, Acquisitions and Divestitures",
+          "Suits and Litigation (Civil)"
+        ],
+        "org_facet": [
+          "Beijing Bytedance Technology Co Ltd",
+          "Justice Department",
+          "TikTok (ByteDance)"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/HFO-TikTok-Oral-Arguments-mbtl/HFO-TikTok-Oral-Arguments-mbtl-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Tiffany Cianci, a TikTok supporter, conducted a livestream outside the courthouse where the TikTok hearing took place on Monday.",
+            "copyright": "Michael A. McCoy for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/HFO-TikTok-Oral-Arguments-mbtl/HFO-TikTok-Oral-Arguments-mbtl-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Tiffany Cianci, a TikTok supporter, conducted a livestream outside the courthouse where the TikTok hearing took place on Monday.",
+            "copyright": "Michael A. McCoy for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/HFO-TikTok-Oral-Arguments-mbtl/HFO-TikTok-Oral-Arguments-mbtl-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Tiffany Cianci, a TikTok supporter, conducted a livestream outside the courthouse where the TikTok hearing took place on Monday.",
+            "copyright": "Michael A. McCoy for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "world",
+        "subsection": "europe",
+        "title": "A Top E.U. Commissioner Resigns, Citing ‘Questionable Governance’",
+        "abstract": "The surprise resignation of Thierry Breton came after he accused Ursula von der Leyen, president of the European Commission, of pressuring France to nominate another candidate instead of him for commissioner.",
+        "url": "https://www.nytimes.com/2024/09/16/world/europe/thierry-breton-european-commissioner-resigns.html",
+        "uri": "nyt://article/a0671830-8788-5199-b164-e4884d0b1ca9",
+        "byline": "By Jenny Gross",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T14:35:45-04:00",
+        "created_date": "2024-09-16T13:53:24-04:00",
+        "published_date": "2024-09-16T13:53:24-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Appointments and Executive Changes",
+          "United States International Relations",
+          "Politics and Government",
+          "Legislatures and Parliaments",
+          "Elections"
+        ],
+        "org_facet": [
+          "European Commission",
+          "European Union",
+          "Instagram Inc",
+          "Meta Platforms Inc",
+          "European Council",
+          "European Parliament",
+          "X (Formerly Twitter)"
+        ],
+        "per_facet": [
+          "von der Leyen, Ursula",
+          "Macron, Emmanuel (1977- )",
+          "Musk, Elon",
+          "Sejourne, Stephane",
+          "Trump, Donald J",
+          "Breton, Thierry (1955- )"
+        ],
+        "geo_facet": [
+          "France"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16eu-breton01-photo-zhfw/16eu-breton01-photo-zhfw-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Ursula von der Leyen, president of the European Commission, and Thierry Breton, France’s European Union commissioner, meeting in Brussels in June.",
+            "copyright": "Olivier Matthys/EPA, via Shutterstock"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16eu-breton01-photo-zhfw/16eu-breton01-photo-zhfw-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Ursula von der Leyen, president of the European Commission, and Thierry Breton, France’s European Union commissioner, meeting in Brussels in June.",
+            "copyright": "Olivier Matthys/EPA, via Shutterstock"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16eu-breton01-photo-zhfw/16eu-breton01-photo-zhfw-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Ursula von der Leyen, president of the European Commission, and Thierry Breton, France’s European Union commissioner, meeting in Brussels in June.",
+            "copyright": "Olivier Matthys/EPA, via Shutterstock"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "",
+        "title": "Boeing Will Cut Spending as Strike Takes Financial Toll",
+        "abstract": "More than 33,000 Boeing workers went on strike last week after rejecting a tentative contract the company had negotiated with their unions.",
+        "url": "https://www.nytimes.com/2024/09/16/business/boeing-strike-hiring-freeze.html",
+        "uri": "nyt://article/6fcd3304-2c1a-5a61-9737-0f20e4dc9640",
+        "byline": "By Niraj Chokshi",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T23:33:57-04:00",
+        "created_date": "2024-09-16T12:57:13-04:00",
+        "published_date": "2024-09-16T12:57:13-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Airlines and Airplanes",
+          "Strikes",
+          "Labor and Jobs",
+          "Hiring and Promotion",
+          "Organized Labor"
+        ],
+        "org_facet": [
+          "Boeing Company"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/BOEING-03-fpzw/BOEING-03-fpzw-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Boeing workers in the Seattle area went on strike last week after union members overwhelmingly rejected a tentative contract negotiated by the union and the company management. ",
+            "copyright": "Grant Hindsley for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/BOEING-03-fpzw/BOEING-03-fpzw-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Boeing workers in the Seattle area went on strike last week after union members overwhelmingly rejected a tentative contract negotiated by the union and the company management. ",
+            "copyright": "Grant Hindsley for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/BOEING-03-fpzw/BOEING-03-fpzw-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Boeing workers in the Seattle area went on strike last week after union members overwhelmingly rejected a tentative contract negotiated by the union and the company management. ",
+            "copyright": "Grant Hindsley for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "technology",
+        "subsection": "",
+        "title": "The Chinese Chipmaker at the Heart of the U.S.-China Tech War",
+        "abstract": "Efforts by the Beijing-backed Semiconductor Manufacturing International Corporation, or SMIC, to break through innovation barriers have landed it in a geopolitical tech battle.",
+        "url": "https://www.nytimes.com/2024/09/16/technology/smic-china-us-trade-war.html",
+        "uri": "nyt://article/18ff1ed8-29d5-5744-bf1b-55b476d31e95",
+        "byline": "By Ana Swanson, John Liu and Paul Mozur",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T14:20:20-04:00",
+        "created_date": "2024-09-16T12:15:10-04:00",
+        "published_date": "2024-09-16T12:15:10-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Computer Chips",
+          "International Relations",
+          "Embargoes and Sanctions",
+          "Factories and Manufacturing",
+          "Innovation",
+          "Artificial Intelligence",
+          "United States International Relations",
+          "Corporations",
+          "International Trade and World Market",
+          "Computers and the Internet"
+        ],
+        "org_facet": [
+          "Commerce Department",
+          "Huawei Technologies Co Ltd",
+          "NVIDIA Corporation",
+          "Intel Corporation",
+          "Semiconductor Manufacturing International Corporation"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "China",
+          "Shanghai (China)"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/03/multimedia/dc-smic-2-ztmb/dc-smic-2-ztmb-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1364,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Semiconductor Manufacturing International Corporation’s factories in Shanghai.",
+            "copyright": "Qilai Shen for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/03/multimedia/dc-smic-2-ztmb/dc-smic-2-ztmb-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 399,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Semiconductor Manufacturing International Corporation’s factories in Shanghai.",
+            "copyright": "Qilai Shen for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/03/multimedia/dc-smic-2-ztmb/dc-smic-2-ztmb-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Semiconductor Manufacturing International Corporation’s factories in Shanghai.",
+            "copyright": "Qilai Shen for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "media",
+        "title": "FX Outduels Bigger Rivals to Collect Huge Emmy Haul",
+        "abstract": "The network has been a darling among critics for years. But it hit a new high on Sunday, with “Shogun” winning best drama and “The Bear” picking up several awards as well.",
+        "url": "https://www.nytimes.com/2024/09/16/business/media/fx-emmy-wins.html",
+        "uri": "nyt://article/94b124d0-62fc-5052-b269-9ea2415f01fe",
+        "byline": "By John Koblin",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T23:39:11-04:00",
+        "created_date": "2024-09-16T09:58:40-04:00",
+        "published_date": "2024-09-16T09:58:40-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Television",
+          "Emmy Awards",
+          "Video Recordings, Downloads and Streaming",
+          "Shogun (TV Program)",
+          "The Bear (TV Program)"
+        ],
+        "org_facet": [
+          "FX (TV Network)",
+          "Walt Disney Company"
+        ],
+        "per_facet": [
+          "Iger, Robert A",
+          "Landgraf, John",
+          "Marks, Justin (Screenwriter)"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16fx1-gmhp/16fx1-gmhp-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The team from “Shogun” accepted the award for outstanding drama series at the Emmy Awards in Los Angeles on Sunday.",
+            "copyright": "Phil Mccarten/Invision, via Associated Press"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16fx1-gmhp/16fx1-gmhp-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The team from “Shogun” accepted the award for outstanding drama series at the Emmy Awards in Los Angeles on Sunday.",
+            "copyright": "Phil Mccarten/Invision, via Associated Press"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16fx1-gmhp/16fx1-gmhp-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The team from “Shogun” accepted the award for outstanding drama series at the Emmy Awards in Los Angeles on Sunday.",
+            "copyright": "Phil Mccarten/Invision, via Associated Press"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "",
+        "title": "Harland & Wolff, Titanic Shipbuilder, Files for Bankruptcy",
+        "abstract": "For the second time in five years, the parent company of the shipyard in Belfast, Northern Ireland, will enter administration, with Royal Navy contracts in the balance.",
+        "url": "https://www.nytimes.com/2024/09/16/business/harland-wolff-titanic-bankruptcy.html",
+        "uri": "nyt://article/c3ea8ba0-4612-5e40-b3b7-b16100f02d1c",
+        "byline": "By Eshe Nelson",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T23:36:00-04:00",
+        "created_date": "2024-09-16T08:47:18-04:00",
+        "published_date": "2024-09-16T08:47:18-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Bankruptcies",
+          "Titanic (Ship)",
+          "Ships and Shipping"
+        ],
+        "org_facet": [
+          "Babcock International Group",
+          "HARLAND & WOLFF"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16harland-wolff-mckj/16harland-wolff-mckj-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The future of Harland & Wolff’s shipyard in Belfast, Northern Ireland, has come into sharp focus because the company has a contract to build three Royal Navy ships there.",
+            "copyright": "Clodagh Kilcoyne/Reuters"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16harland-wolff-mckj/16harland-wolff-mckj-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The future of Harland & Wolff’s shipyard in Belfast, Northern Ireland, has come into sharp focus because the company has a contract to build three Royal Navy ships there.",
+            "copyright": "Clodagh Kilcoyne/Reuters"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16harland-wolff-mckj/16harland-wolff-mckj-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The future of Harland & Wolff’s shipyard in Belfast, Northern Ireland, has come into sharp focus because the company has a contract to build three Royal Navy ships there.",
+            "copyright": "Clodagh Kilcoyne/Reuters"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "dealbook",
+        "title": "Are Voters Feeling Better About the Economy?",
+        "abstract": "After another tumultuous weekend in the presidential campaign, Americans are still largely focused on their finances, new surveys show. That could give an edge to Vice President Kamala Harris.",
+        "url": "https://www.nytimes.com/2024/09/16/business/dealbook/voters-harris-trump-economy.html",
+        "uri": "nyt://article/299bfb39-5ca0-5cf2-a71e-f19633e20b40",
+        "byline": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Lauren Hirsch and Ephrat Livni",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T07:57:23-04:00",
+        "created_date": "2024-09-16T07:57:23-04:00",
+        "published_date": "2024-09-16T07:57:23-04:00",
+        "material_type_facet": "",
+        "kicker": "DealBook Newsletter",
+        "des_facet": [
+          "internal-storyline-no",
+          "United States Economy",
+          "Inflation (Economics)",
+          "Presidential Election of 2024",
+          "Polls and Public Opinion"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Harris, Kamala D",
+          "Trump, Donald J",
+          "Vance, J D",
+          "DeWine, Mike",
+          "Swift, Taylor"
+        ],
+        "geo_facet": [
+          "Ohio"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16db-trump-zgcv/16db-trump-zgcv-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1482,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The authorities are investigating a possible second assassination attempt on Donald Trump as voters continue to focus on the economy. ",
+            "copyright": "Doug Mills/The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16db-trump-zgcv/16db-trump-zgcv-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The authorities are investigating a possible second assassination attempt on Donald Trump as voters continue to focus on the economy. ",
+            "copyright": "Doug Mills/The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16db-trump-zgcv/16db-trump-zgcv-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The authorities are investigating a possible second assassination attempt on Donald Trump as voters continue to focus on the economy. ",
+            "copyright": "Doug Mills/The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "economy",
+        "title": "The Fed Is Still Banking on a Labor Market Miracle",
+        "abstract": "The Federal Reserve is poised to lower interest rates this week. Recent jobs data have been a reminder that a soft landing is not yet assured.",
+        "url": "https://www.nytimes.com/2024/09/16/business/economy/fed-interest-rates-labor.html",
+        "uri": "nyt://article/be23a954-ef55-5df9-9a40-126d45331cc2",
+        "byline": "By Jeanna Smialek",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T23:32:55-04:00",
+        "created_date": "2024-09-16T05:03:33-04:00",
+        "published_date": "2024-09-16T05:03:33-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Labor and Jobs",
+          "Hiring and Promotion",
+          "Interest Rates",
+          "Recession and Depression",
+          "Wages and Salaries",
+          "United States Economy",
+          "Prices (Fares, Fees and Rates)"
+        ],
+        "org_facet": [
+          "Federal Reserve System"
+        ],
+        "per_facet": [
+          "Powell, Jerome H"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16dc-fedlabormarket-ckwp/16dc-fedlabormarket-ckwp-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1366,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "“We do not seek or welcome further cooling in labor market conditions,” Jerome H. Powell, the Federal Reserve chair, said last month.",
+            "copyright": "Cheriss May for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16dc-fedlabormarket-ckwp/16dc-fedlabormarket-ckwp-threeByTwoSmallAt2X-v4.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "“We do not seek or welcome further cooling in labor market conditions,” Jerome H. Powell, the Federal Reserve chair, said last month.",
+            "copyright": "Cheriss May for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16dc-fedlabormarket-ckwp/16dc-fedlabormarket-ckwp-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "“We do not seek or welcome further cooling in labor market conditions,” Jerome H. Powell, the Federal Reserve chair, said last month.",
+            "copyright": "Cheriss May for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "energy-environment",
+        "title": "Big Energy Issue in Pennsylvania Is Low Natural Gas Prices. Not Fracking.",
+        "abstract": "Energy businesses and farmers in western Pennsylvania are struggling because of prices, an issue that has not figured prominently in the campaigns of Donald J. Trump and Kamala Harris.",
+        "url": "https://www.nytimes.com/2024/09/16/business/energy-environment/pennsylvania-fracking-natural-gas-trump-harris.html",
+        "uri": "nyt://article/23b3c7f6-7b5c-5126-a996-370dbe462632",
+        "byline": "By Rebecca F. Elliott",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T10:51:02-04:00",
+        "created_date": "2024-09-16T05:03:15-04:00",
+        "published_date": "2024-09-16T05:03:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Prices (Fares, Fees and Rates)",
+          "Oil (Petroleum) and Gasoline",
+          "Presidential Election of 2024",
+          "Natural Gas",
+          "Hydraulic Fracturing",
+          "Federal-State Relations (US)",
+          "United States Politics and Government",
+          "Agriculture and Farming",
+          "Labor and Jobs",
+          "Royalties",
+          "Global Warming",
+          "Regulation and Deregulation of Industry",
+          "Infrastructure (Public Works)",
+          "Production",
+          "Pipelines",
+          "Coal",
+          "Land Use Policies",
+          "Shale",
+          "Steel and Iron"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Harris, Kamala D",
+          "Biden, Joseph R Jr",
+          "Trump, Donald J"
+        ],
+        "geo_facet": [
+          "Pennsylvania",
+          "Marcellus Shale",
+          "Appalachian Region"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/13/multimedia/16penn-fracking-hp-promo1/00penn-fracking-01-hmvb-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Natural gas equipment in Washington County, Pa. For many voters in southwestern Pennsylvania, the question is how to build the infrastructure to get natural gas to places where it will fetch higher prices.",
+            "copyright": "Justin Merriman for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/13/multimedia/16penn-fracking-hp-promo1/16penn-fracking-hp-promo1-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Natural gas equipment in Washington County, Pa. For many voters in southwestern Pennsylvania, the question is how to build the infrastructure to get natural gas to places where it will fetch higher prices.",
+            "copyright": "Justin Merriman for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/13/multimedia/16penn-fracking-hp-promo1/00penn-fracking-01-hmvb-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Natural gas equipment in Washington County, Pa. For many voters in southwestern Pennsylvania, the question is how to build the infrastructure to get natural gas to places where it will fetch higher prices.",
+            "copyright": "Justin Merriman for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "dining",
+        "subsection": "drinks",
+        "title": "The Customized Drink Is Out of Control",
+        "abstract": "As cafes grant us the power to cobble together ultra-personalized beverages filled with syrups, powders, fruit chunks, boba and plenty of caffeine, we’re all soda jerks now.",
+        "url": "https://www.nytimes.com/2024/09/16/dining/drinks/customized-drinks.html",
+        "uri": "nyt://article/eb387a3e-3854-516b-a50a-0d09a018f9d5",
+        "byline": "By Priya Krishna",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T13:52:29-04:00",
+        "created_date": "2024-09-16T05:01:01-04:00",
+        "published_date": "2024-09-16T05:01:01-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Coffee",
+          "Beverages",
+          "Soft Drinks",
+          "Energy and Sports Drinks",
+          "Caffeine",
+          "Sugar",
+          "Restaurants"
+        ],
+        "org_facet": [
+          "Starbucks Corporation",
+          "Sonic Drive-In",
+          "McDonald's Corporation",
+          "Dunkin Donuts"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16beverages1-mpbh/16beverages1-mpbh-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "CosMc’s, a beverage chain from McDonald’s, is one of the latest businesses to capitalize on Americans’ obsession with over-the-top made-to-order drinks. ",
+            "copyright": "Photo Illustration by Jonathan Zizzo for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16beverages1-mpbh/16beverages1-mpbh-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "CosMc’s, a beverage chain from McDonald’s, is one of the latest businesses to capitalize on Americans’ obsession with over-the-top made-to-order drinks. ",
+            "copyright": "Photo Illustration by Jonathan Zizzo for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16beverages1-mpbh/16beverages1-mpbh-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "CosMc’s, a beverage chain from McDonald’s, is one of the latest businesses to capitalize on Americans’ obsession with over-the-top made-to-order drinks. ",
+            "copyright": "Photo Illustration by Jonathan Zizzo for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "travel",
+        "subsection": "",
+        "title": "Looking for a New Way to See Iceland? Bring Your Knitting Needles.",
+        "abstract": "In a country with more sheep than people, a D.I.Y. wool journey — from sheep farms to yarn shops — makes perfect sense. Our writer brushes up on her knitting on a driving trip from Reykjavik.",
+        "url": "https://www.nytimes.com/2024/09/16/travel/iceland-knitting.html",
+        "uri": "nyt://article/b899e3ed-99cb-59dc-857d-b7795a64c419",
+        "byline": "By Lisa Abend",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T16:45:39-04:00",
+        "created_date": "2024-09-16T05:00:38-04:00",
+        "published_date": "2024-09-16T05:00:38-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Knitting and Knit Goods",
+          "Handicrafts",
+          "Travel and Vacations",
+          "Textiles"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [
+          "Iceland",
+          "Reykjavik (Iceland)"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/04/multimedia/iceland-knit-sheep-qmgj/iceland-knit-sheep-qmgj-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Sheep graze near the Ring Road in west Iceland. With about 10 times more sheep than people, Iceland is drawing tourists interested in one of the country’s most popular crafts: knitting.",
+            "copyright": "Sigga Ella for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/04/multimedia/iceland-knit-sheep-qmgj/iceland-knit-sheep-qmgj-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Sheep graze near the Ring Road in west Iceland. With about 10 times more sheep than people, Iceland is drawing tourists interested in one of the country’s most popular crafts: knitting.",
+            "copyright": "Sigga Ella for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/04/multimedia/iceland-knit-sheep-qmgj/iceland-knit-sheep-qmgj-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Sheep graze near the Ring Road in west Iceland. With about 10 times more sheep than people, Iceland is drawing tourists interested in one of the country’s most popular crafts: knitting.",
+            "copyright": "Sigga Ella for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "technology",
+        "subsection": "",
+        "title": "Will TikTok Be Banned in January? That Question Is Headed to Court.",
+        "abstract": "TikTok will be in federal court on Monday, aiming to block a new law that will ban the popular video app in the United States early next year.",
+        "url": "https://www.nytimes.com/2024/09/16/technology/tiktok-us-ban-court.html",
+        "uri": "nyt://article/a9df19f2-c8ac-5590-85f4-66943b5bf0fe",
+        "byline": "By Sapna Maheshwari",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T13:37:18-04:00",
+        "created_date": "2024-09-16T03:00:28-04:00",
+        "published_date": "2024-09-16T03:00:28-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Social Media",
+          "International Relations",
+          "Mobile Applications",
+          "Suits and Litigation (Civil)",
+          "Mergers, Acquisitions and Divestitures",
+          "First Amendment (US Constitution)",
+          "Espionage and Intelligence Services",
+          "Computers and the Internet"
+        ],
+        "org_facet": [
+          "TikTok (ByteDance)",
+          "Beijing Bytedance Technology Co Ltd",
+          "Justice Department"
+        ],
+        "per_facet": [],
+        "geo_facet": [
+          "China"
+        ],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16tiktok-explainer-sub-pgcm/16tiktok-explainer-sub-pgcm-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Supporters of TikTok in front of the U.S. Capitol in April, as the Senate took up a bill that would force a sale of TikTok by its Chinese owner, ByteDance — or ban it outright.",
+            "copyright": "Anna Moneymaker/Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16tiktok-explainer-sub-pgcm/16tiktok-explainer-sub-pgcm-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Supporters of TikTok in front of the U.S. Capitol in April, as the Senate took up a bill that would force a sale of TikTok by its Chinese owner, ByteDance — or ban it outright.",
+            "copyright": "Anna Moneymaker/Getty Images"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16tiktok-explainer-sub-pgcm/16tiktok-explainer-sub-pgcm-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Supporters of TikTok in front of the U.S. Capitol in April, as the Senate took up a bill that would force a sale of TikTok by its Chinese owner, ByteDance — or ban it outright.",
+            "copyright": "Anna Moneymaker/Getty Images"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "style",
+        "subsection": "",
+        "title": "Roblox for Adults? Dress to Impress Draws a Crowd.",
+        "abstract": "The online gaming platform is ubiquitous among tweens, but a popular fashion game has adults — and a few celebrities — paying attention.",
+        "url": "https://www.nytimes.com/2024/09/15/style/dress-to-impress-roblox.html",
+        "uri": "nyt://article/aedb053f-57d8-5d04-8ef8-ff03f8d45cb8",
+        "byline": "By Jessica Roy",
+        "item_type": "Article",
+        "updated_date": "2024-09-15T05:04:06-04:00",
+        "created_date": "2024-09-15T05:04:06-04:00",
+        "published_date": "2024-09-15T05:04:06-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Dress to Impress (Video Game)",
+          "Computer and Video Games",
+          "Fashion and Apparel"
+        ],
+        "org_facet": [
+          "Roblox Corp"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/15/multimedia/15DRESS-TO-IMPRESS-01-lwmf/15DRESS-TO-IMPRESS-01-lwmf-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Roblox"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/15/multimedia/15DRESS-TO-IMPRESS-01-lwmf/15DRESS-TO-IMPRESS-01-lwmf-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Roblox"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/15/multimedia/15DRESS-TO-IMPRESS-01-lwmf/15DRESS-TO-IMPRESS-01-lwmf-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Roblox"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "media",
+        "title": "‘Beetlejuice Beetlejuice’ Hands Warner Bros. a Lifeline",
+        "abstract": "The movie has made roughly $190 million in its first 10 days, giving the studio a needed hit after a summer of misfires.",
+        "url": "https://www.nytimes.com/2024/09/15/business/media/beetlejuice-warner-bros-lifeline.html",
+        "uri": "nyt://article/54cc5fb8-6446-5d3a-a127-4fe1a02942a1",
+        "byline": "By Brooks Barnes",
+        "item_type": "Article",
+        "updated_date": "2024-09-15T23:22:59-04:00",
+        "created_date": "2024-09-15T05:03:32-04:00",
+        "published_date": "2024-09-15T05:03:32-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Movies",
+          "Box Office Sales",
+          "Executives and Management (Theory)",
+          "Video Recordings, Downloads and Streaming",
+          "Beetlejuice Beetlejuice (Movie)"
+        ],
+        "org_facet": [
+          "Warner Bros Discovery",
+          "Warner Brothers Pictures"
+        ],
+        "per_facet": [
+          "Burton, Tim",
+          "de Luca, Michael",
+          "Abdy, Pamela"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/11/multimedia/11beetlejuice-review01-cul-inyt/05beetlejuice-ctlg-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1341,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "In “Beetlejuice Beetlejuice,” Michael Keaton is less subversive now and more like a super-eccentric uncle.",
+            "copyright": "Parisa Taghizadeh/Warner Bros."
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/11/multimedia/11beetlejuice-review01-cul-inyt/05beetlejuice-ctlg-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "In “Beetlejuice Beetlejuice,” Michael Keaton is less subversive now and more like a super-eccentric uncle.",
+            "copyright": "Parisa Taghizadeh/Warner Bros."
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/11/multimedia/11beetlejuice-review01-cul-inyt/05beetlejuice-ctlg-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "In “Beetlejuice Beetlejuice,” Michael Keaton is less subversive now and more like a super-eccentric uncle.",
+            "copyright": "Parisa Taghizadeh/Warner Bros."
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "economy",
+        "title": "White-Collar Workers Are Getting Squeezed. Even Oscar-Winning Producers.",
+        "abstract": "Corporate consolidation and technology have upended many jobs in recent decades. But few arcs are more surprising than that of the Hollywood producer.",
+        "url": "https://www.nytimes.com/2024/09/15/business/economy/hollywood-producers-challenges.html",
+        "uri": "nyt://article/7cec5cc6-3942-51d8-bd83-8c2696acb93d",
+        "byline": "By Noam Scheiber",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T11:59:03-04:00",
+        "created_date": "2024-09-15T05:02:26-04:00",
+        "published_date": "2024-09-15T05:02:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Movies",
+          "Careers and Professions",
+          "Labor and Jobs",
+          "Wages and Salaries",
+          "Television"
+        ],
+        "org_facet": [
+          "Producers United (Advocacy Group)"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/09/multimedia/00producers-united-01-mjgv/00producers-united-01-mjgv-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 2048,
+            "width": 1366,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Cathy Schulman is part of a group of more than 100 producers who are seeking more favorable financial terms through discussions with Hollywood studios.",
+            "copyright": "Jessica Lehrman for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/09/multimedia/00producers-united-01-mjgv/00producers-united-01-mjgv-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Cathy Schulman is part of a group of more than 100 producers who are seeking more favorable financial terms through discussions with Hollywood studios.",
+            "copyright": "Jessica Lehrman for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/09/multimedia/00producers-united-01-mjgv/00producers-united-01-mjgv-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Cathy Schulman is part of a group of more than 100 producers who are seeking more favorable financial terms through discussions with Hollywood studios.",
+            "copyright": "Jessica Lehrman for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "",
+        "title": "Therapy Can Be a Financial Burden. Try Telling Your Therapist That.",
+        "abstract": "Many Americans who need therapy are discouraged by the cost. But there are options to make it more affordable.",
+        "url": "https://www.nytimes.com/2024/09/15/business/affordable-therapy-costs.html",
+        "uri": "nyt://article/a5b9b87a-9680-5568-b831-676cf6b9dae1",
+        "byline": "By Jenny Singer",
+        "item_type": "Article",
+        "updated_date": "2024-09-15T05:02:26-04:00",
+        "created_date": "2024-09-15T05:02:26-04:00",
+        "published_date": "2024-09-15T05:02:26-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Personal Finances",
+          "Therapy and Rehabilitation",
+          "Content Type: Service",
+          "Mental Health and Disorders"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/06/multimedia/THERAPY-COST-04-kqtj/THERAPY-COST-04-kqtj-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 2048,
+            "width": 1366,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Lydia Bugg went to therapy for post-traumatic stress disorder after fighting off a home intruder but found the cost prohibitive.",
+            "copyright": "Mustafa Hussain for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/06/multimedia/THERAPY-COST-04-kqtj/THERAPY-COST-04-kqtj-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Lydia Bugg went to therapy for post-traumatic stress disorder after fighting off a home intruder but found the cost prohibitive.",
+            "copyright": "Mustafa Hussain for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/06/multimedia/THERAPY-COST-04-kqtj/THERAPY-COST-04-kqtj-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Lydia Bugg went to therapy for post-traumatic stress disorder after fighting off a home intruder but found the cost prohibitive.",
+            "copyright": "Mustafa Hussain for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "",
+        "title": "‘The Yellowstone Effect’: Cities Cash In on Cowboy Culture",
+        "abstract": "Lands in cities and towns that were once shipping points for livestock can be low-lying, unfavorable and often prone to flooding. They’re also hotbeds for new developments.",
+        "url": "https://www.nytimes.com/2024/09/15/business/stockyards-redevelopment.html",
+        "uri": "nyt://article/978439a2-2a57-5681-bbd0-1d89c0f57e5b",
+        "byline": "By Patrick Sisson",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T10:54:17-04:00",
+        "created_date": "2024-09-15T05:00:19-04:00",
+        "published_date": "2024-09-15T05:00:19-04:00",
+        "material_type_facet": "",
+        "kicker": "square feet",
+        "des_facet": [
+          "Area Planning and Renewal",
+          "Real Estate (Commercial)",
+          "Livestock",
+          "Rodeos",
+          "Mixed-Use Developments"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/10/multimedia/00stockyards-01-kmfz/00stockyards-01-kmfz-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A calf roping competition at the Calgary Stampede this summer. Over a million visitors came to the annual rodeo show, which is filled with concerts, cattle and circus performers.",
+            "copyright": "Amber Bracken for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/10/multimedia/00stockyards-01-kmfz/00stockyards-01-kmfz-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A calf roping competition at the Calgary Stampede this summer. Over a million visitors came to the annual rodeo show, which is filled with concerts, cattle and circus performers.",
+            "copyright": "Amber Bracken for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/10/multimedia/00stockyards-01-kmfz/00stockyards-01-kmfz-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "A calf roping competition at the Calgary Stampede this summer. Over a million visitors came to the annual rodeo show, which is filled with concerts, cattle and circus performers.",
+            "copyright": "Amber Bracken for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "",
+        "title": "How Do I Survive the Last Mile to Retirement?",
+        "abstract": "I have a crushing workload and the anger to prove it. With less than two years before I can leave, how do I avoid alienating everyone?",
+        "url": "https://www.nytimes.com/2024/09/15/business/retirement-work-problems-advice.html",
+        "uri": "nyt://article/c7f93c84-7fb5-566a-b78a-d2b837d6663f",
+        "byline": "By Anna Holmes",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T09:18:42-04:00",
+        "created_date": "2024-09-15T03:00:40-04:00",
+        "published_date": "2024-09-15T03:00:40-04:00",
+        "material_type_facet": "",
+        "kicker": "work Friend",
+        "des_facet": [
+          "Work-Life Balance",
+          "Careers and Professions",
+          "your-feed-selfcare",
+          "Workplace Environment"
+        ],
+        "org_facet": [],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/15/multimedia/15Workfriend-zcph/15Workfriend-zcph-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 2048,
+            "width": 1639,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Photo Illustration by Margeaux Walter for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/15/multimedia/15Workfriend-zcph/15Workfriend-zcph-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Photo Illustration by Margeaux Walter for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/15/multimedia/15Workfriend-zcph/15Workfriend-zcph-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "",
+            "copyright": "Photo Illustration by Margeaux Walter for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "arts",
+        "subsection": "music",
+        "title": "R. Peter Munves, Master Marketer of Classical Music, Dies at 97",
+        "abstract": "As an executive at Columbia and RCA Records, he popularized the classics for mass audiences by applying the same techniques used to sell pop music.",
+        "url": "https://www.nytimes.com/2024/09/14/arts/music/r-peter-munves-dead.html",
+        "uri": "nyt://article/a1b1ae87-fb4a-5c1a-b5ff-fb5ba8f39f5c",
+        "byline": "By Adam Nossiter",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T16:23:45-04:00",
+        "created_date": "2024-09-14T23:03:05-04:00",
+        "published_date": "2024-09-14T23:03:05-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Deaths (Obituaries)",
+          "Classical Music",
+          "Advertising and Marketing",
+          "Audio Recordings, Downloads and Streaming",
+          "Switched-On Bach (Album)"
+        ],
+        "org_facet": [
+          "Columbia Records",
+          "RCA Records"
+        ],
+        "per_facet": [
+          "Munves, R Peter (1927-2024)"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/17/multimedia/14Munves-hwql/14Munves-hwql-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1570,
+            "width": 1522,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The record executive R. Peter Munves with his collection of classical recordings in the mid-1990s. He carved out a moneymaking niche in what for much of its history has been a low-margin, struggling industry.",
+            "copyright": "Steffen Thalemann"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/17/multimedia/14Munves-hwql/14Munves-hwql-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The record executive R. Peter Munves with his collection of classical recordings in the mid-1990s. He carved out a moneymaking niche in what for much of its history has been a low-margin, struggling industry.",
+            "copyright": "Steffen Thalemann"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/17/multimedia/14Munves-hwql/14Munves-hwql-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The record executive R. Peter Munves with his collection of classical recordings in the mid-1990s. He carved out a moneymaking niche in what for much of its history has been a low-margin, struggling industry.",
+            "copyright": "Steffen Thalemann"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "us",
+        "subsection": "politics",
+        "title": "Trump’s Proposal to End Taxes on Overtime Pay Could Cost Billions",
+        "abstract": "The former president left many key details about the overtime plan unaddressed, including whether the exception would apply to the payroll taxes that fund Social Security and Medicare.",
+        "url": "https://www.nytimes.com/2024/09/14/us/politics/trump-tax-overtime-pay-cost.html",
+        "uri": "nyt://article/546c1ed7-9c3d-55df-b5c5-5003c9cd9927",
+        "byline": "By Andrew Duehren",
+        "item_type": "Article",
+        "updated_date": "2024-09-16T11:50:40-04:00",
+        "created_date": "2024-09-14T14:28:45-04:00",
+        "published_date": "2024-09-14T14:28:45-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Presidential Election of 2024",
+          "Overtime",
+          "Wages and Salaries",
+          "Labor and Jobs",
+          "Income Tax",
+          "Tax Credits, Deductions and Exemptions",
+          "Federal Budget (US)"
+        ],
+        "org_facet": [],
+        "per_facet": [
+          "Harris, Kamala D",
+          "Laffer, Arthur Betz",
+          "Trump, Donald J"
+        ],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/14/multimedia/14dc-Trump-Tax-topart-fvqw/14dc-Trump-Tax-topart-fvqw-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1366,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Former President Donald J. Trump appearing at a campaign event in Tucson, Ariz., on Thursday. In the 2024 race, he has promised potentially huge tax cuts, defined in just a few words.",
+            "copyright": "Adriana Zehbrauskas for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/14/multimedia/14dc-Trump-Tax-topart-fvqw/14dc-Trump-Tax-topart-fvqw-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Former President Donald J. Trump appearing at a campaign event in Tucson, Ariz., on Thursday. In the 2024 race, he has promised potentially huge tax cuts, defined in just a few words.",
+            "copyright": "Adriana Zehbrauskas for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/14/multimedia/14dc-Trump-Tax-topart-fvqw/14dc-Trump-Tax-topart-fvqw-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Former President Donald J. Trump appearing at a campaign event in Tucson, Ariz., on Thursday. In the 2024 race, he has promised potentially huge tax cuts, defined in just a few words.",
+            "copyright": "Adriana Zehbrauskas for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "economy",
+        "title": "Ending the Boeing Strike Won’t Be Easy. Here’s Why.",
+        "abstract": "The vehemence of workers over wages and other issues caught the company and union leaders off guard.",
+        "url": "https://www.nytimes.com/2024/09/14/business/economy/boeing-strike-union.html",
+        "uri": "nyt://article/1922d0fc-4985-5c08-8755-c46c0048ee5e",
+        "byline": "By Peter Eavis",
+        "item_type": "Article",
+        "updated_date": "2024-09-14T22:35:27-04:00",
+        "created_date": "2024-09-14T10:54:15-04:00",
+        "published_date": "2024-09-14T10:54:15-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Labor and Jobs",
+          "Strikes",
+          "Organized Labor",
+          "Wages and Salaries",
+          "Airlines and Airplanes",
+          "Pensions and Retirement Plans"
+        ],
+        "org_facet": [
+          "International Assn of Machinists and Aerospace Workers",
+          "Boeing Company"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/14/multimedia/14boeing-strike-vgpl/14boeing-strike-vgpl-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Boeing workers picketed outside the company’s facility in Renton, Wash. The strike comes at a critical time for Boeing’s finances and its reputation with customers and the public.",
+            "copyright": "Grant Hindsley for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/14/multimedia/14boeing-strike-vgpl/14boeing-strike-vgpl-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Boeing workers picketed outside the company’s facility in Renton, Wash. The strike comes at a critical time for Boeing’s finances and its reputation with customers and the public.",
+            "copyright": "Grant Hindsley for The New York Times"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/14/multimedia/14boeing-strike-vgpl/14boeing-strike-vgpl-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "Boeing workers picketed outside the company’s facility in Renton, Wash. The strike comes at a critical time for Boeing’s finances and its reputation with customers and the public.",
+            "copyright": "Grant Hindsley for The New York Times"
+          }
+        ],
+        "short_url": ""
+      },
+      {
+        "section": "business",
+        "subsection": "media",
+        "title": "Disney and DirecTV Reach Deal, Ending ESPN Blackout",
+        "abstract": "The agreement ends a two-week dispute that had prevented many of DirecTV’s 11 million customers from watching programs like Monday Night Football.",
+        "url": "https://www.nytimes.com/2024/09/14/business/media/disney-directv-deal-espn-abc.html",
+        "uri": "nyt://article/4f5b8fa3-9d35-5c1a-8531-cbbcbf6cd12e",
+        "byline": "By Benjamin Mullin",
+        "item_type": "Article",
+        "updated_date": "2024-09-14T22:38:16-04:00",
+        "created_date": "2024-09-14T09:58:34-04:00",
+        "published_date": "2024-09-14T09:58:34-04:00",
+        "material_type_facet": "",
+        "kicker": "",
+        "des_facet": [
+          "Television",
+          "Customer Relations",
+          "Satellites"
+        ],
+        "org_facet": [
+          "DirecTV",
+          "Walt Disney Company"
+        ],
+        "per_facet": [],
+        "geo_facet": [],
+        "multimedia": [
+          {
+            "url": "https://static01.nyt.com/images/2024/09/14/multimedia/14disney-directtv-deal-fgkz/14disney-directtv-deal-fgkz-superJumbo.jpg",
+            "format": "Super Jumbo",
+            "height": 1365,
+            "width": 2048,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The deal between Disney and DirecTV will allow customers to watch games like last Monday’s football matchup between the San Francisco 49ers and the New York Jets.",
+            "copyright": "Scot Tucker/Associated Press"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/14/multimedia/14disney-directtv-deal-fgkz/14disney-directtv-deal-fgkz-threeByTwoSmallAt2X.jpg",
+            "format": "threeByTwoSmallAt2X",
+            "height": 400,
+            "width": 600,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The deal between Disney and DirecTV will allow customers to watch games like last Monday’s football matchup between the San Francisco 49ers and the New York Jets.",
+            "copyright": "Scot Tucker/Associated Press"
+          },
+          {
+            "url": "https://static01.nyt.com/images/2024/09/14/multimedia/14disney-directtv-deal-fgkz/14disney-directtv-deal-fgkz-thumbLarge.jpg",
+            "format": "Large Thumbnail",
+            "height": 150,
+            "width": 150,
+            "type": "image",
+            "subtype": "photo",
+            "caption": "The deal between Disney and DirecTV will allow customers to watch games like last Monday’s football matchup between the San Francisco 49ers and the New York Jets.",
+            "copyright": "Scot Tucker/Associated Press"
+          }
+        ],
+        "short_url": ""
+      }
+    ]
+  }

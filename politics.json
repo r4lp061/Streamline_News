@@ -1,0 +1,1547 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company. All Rights Reserved.",
+  "section": "U.S. Politics",
+  "last_updated": "2024-06-04T15:34:36-04:00",
+  "num_results": 24,
+  "results": [
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Corey Lewandowski Was Fired in 2016. Why Is He Back at Trump’s Side?",
+      "abstract": "Donald Trump often finds comfort in Mr. Lewandowski’s feisty instincts and off-color humor. But some Trump aides worry about his penchant for making his own headlines.",
+      "url": "https://www.nytimes.com/2024/09/17/us/politics/corey-lewandowski-trump-campaign.html",
+      "uri": "nyt://article/99b5bf0d-44ee-5f4b-a295-41ba595e3318",
+      "byline": "By Michael C. Bender",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T05:04:37-04:00",
+      "created_date": "2024-09-17T05:04:37-04:00",
+      "published_date": "2024-09-17T05:04:37-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Public Relations and Publicity"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Lewandowski, Corey (1975- )",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/15/multimedia/15pol-trump-corey-topart-wbkp/15pol-trump-corey-topart-wbkp-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Corey Lewandowski at the Republican National Convention in Milwaukee in July. He has always found a way to regain Mr. Trump’s trust and tunnel his way back in.",
+          "copyright": "Todd Heisler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/15/multimedia/15pol-trump-corey-topart-wbkp/15pol-trump-corey-topart-wbkp-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Corey Lewandowski at the Republican National Convention in Milwaukee in July. He has always found a way to regain Mr. Trump’s trust and tunnel his way back in.",
+          "copyright": "Todd Heisler/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/15/multimedia/15pol-trump-corey-topart-wbkp/15pol-trump-corey-topart-wbkp-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Corey Lewandowski at the Republican National Convention in Milwaukee in July. He has always found a way to regain Mr. Trump’s trust and tunnel his way back in.",
+          "copyright": "Todd Heisler/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "Meta Plans to Bar the Russian TV Network RT From Its Apps",
+      "abstract": "The Facebook and Instagram owner said it would bar Russian media outlets including RT, which the U.S. has accused of acting as an intelligence arm.",
+      "url": "https://www.nytimes.com/2024/09/17/technology/meta-rt-russian-tv.html",
+      "uri": "nyt://article/4440023b-eaf2-5727-a415-cfc84f6d882e",
+      "byline": "By Mike Isaac and Sheera Frenkel",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T03:54:53-04:00",
+      "created_date": "2024-09-17T01:21:44-04:00",
+      "published_date": "2024-09-17T01:21:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Social Media",
+        "Rumors and Misinformation",
+        "Television",
+        "Presidential Election of 2024",
+        "Computers and the Internet",
+        "United States International Relations",
+        "Espionage and Intelligence Services",
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates"
+      ],
+      "org_facet": [
+        "Facebook Inc",
+        "Instagram Inc",
+        "Meta Platforms Inc",
+        "RT (TV Network)"
+      ],
+      "per_facet": [
+        "Clegg, Nick"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17meta-rt-qkbf/17meta-rt-qkbf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Meta, which owns Facebook, Instagram and WhatsApp, said the ban would take place in the coming days.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17meta-rt-qkbf/17meta-rt-qkbf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Meta, which owns Facebook, Instagram and WhatsApp, said the ban would take place in the coming days.",
+          "copyright": "Jim Wilson/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/17/multimedia/17meta-rt-qkbf/17meta-rt-qkbf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Meta, which owns Facebook, Instagram and WhatsApp, said the ban would take place in the coming days.",
+          "copyright": "Jim Wilson/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Suspect Never Took a Shot at Trump but Hid Undetected for 12 Hours",
+      "abstract": "Ryan W. Routh was charged with two federal gun crimes a day after Secret Service agents fired on him as he pointed a rifle toward the golf course where former President Donald Trump was playing.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/investigation-trump-assassination-attempt.html",
+      "uri": "nyt://article/77e271d4-cccf-5f62-9819-18522024e5e8",
+      "byline": "By Adam Goldman and Glenn Thrush",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T23:18:05-04:00",
+      "created_date": "2024-09-16T19:27:15-04:00",
+      "published_date": "2024-09-16T19:27:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Assassinations and Attempted Assassinations",
+        "United States Politics and Government",
+        "Presidential Election of 2024"
+      ],
+      "org_facet": [
+        "Secret Service",
+        "Federal Bureau of Investigation",
+        "Bureau of Alcohol, Tobacco, Firearms and Explosives"
+      ],
+      "per_facet": [
+        "Routh, Ryan Wesley",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "West Palm Beach (Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16dc-investigate-hhre/16dc-investigate-hhre-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Law enforcement officials investigated the scene outside the Trump International Golf Club in West Palm Beach, Fla., late on Sunday.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16dc-investigate-hhre/16dc-investigate-hhre-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Law enforcement officials investigated the scene outside the Trump International Golf Club in West Palm Beach, Fla., late on Sunday.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16dc-investigate-hhre/16dc-investigate-hhre-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Law enforcement officials investigated the scene outside the Trump International Golf Club in West Palm Beach, Fla., late on Sunday.",
+          "copyright": "Saul Martinez for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Secret Service Admits Not Searching Golf Course Perimeter, Drawing New Scrutiny",
+      "abstract": "The agency’s acting director, Ronald L. Rowe Jr., praised his agents’ actions but conceded that there was no sweep of the course at Donald Trump’s club that a gunman had staked out.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/secret-service-scrutiny-trump.html",
+      "uri": "nyt://article/948f2822-2760-5052-9f56-d20050fecb35",
+      "byline": "By Kate Kelly",
+      "item_type": "Article",
+      "updated_date": "2024-09-17T06:04:57-04:00",
+      "created_date": "2024-09-16T19:24:58-04:00",
+      "published_date": "2024-09-16T19:24:58-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Assassinations and Attempted Assassinations",
+        "United States Politics and Government",
+        "Presidential Election of 2024",
+        "Security and Warning Systems"
+      ],
+      "org_facet": [
+        "Secret Service",
+        "Homeland Security Department"
+      ],
+      "per_facet": [
+        "Rowe, Ronald L Jr",
+        "Trump, Donald J",
+        "Routh, Ryan Wesley"
+      ],
+      "geo_facet": [
+        "West Palm Beach (Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16dc-secretservice2-mpzj/16dc-secretservice2-mpzj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ronald L. Rowe Jr., the Secret Service’s acting director, said that in order to handle an increasingly challenging threat environment, the agency would need Congress to provide more funding.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16dc-secretservice2-mpzj/16dc-secretservice2-mpzj-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ronald L. Rowe Jr., the Secret Service’s acting director, said that in order to handle an increasingly challenging threat environment, the agency would need Congress to provide more funding.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16dc-secretservice2-mpzj/16dc-secretservice2-mpzj-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ronald L. Rowe Jr., the Secret Service’s acting director, said that in order to handle an increasingly challenging threat environment, the agency would need Congress to provide more funding.",
+          "copyright": "Saul Martinez for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "What We Know About the Accused Gunman",
+      "abstract": "The man arrested after Secret Service agents opened fire while protecting Donald Trump was charged with two federal gun crimes on Monday.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/trump-golf-course-shooting.html",
+      "uri": "nyt://article/28cf8d93-01a0-502a-85e1-cdbbf1a59fc4",
+      "byline": "By Ian Prasad Philbrick",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T19:16:18-04:00",
+      "created_date": "2024-09-16T18:32:13-04:00",
+      "published_date": "2024-09-16T18:32:13-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Politics and Government",
+        "Elections",
+        "Presidential Election of 2024"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J",
+        "Harris, Kamala D"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16-pol-on-politics-newsletter-philbrick-topart-bjzp/16-pol-on-politics-newsletter-philbrick-topart-bjzp-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The authorities have charged a suspect with two gun-related crimes. ",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16-pol-on-politics-newsletter-philbrick-topart-bjzp/16-pol-on-politics-newsletter-philbrick-topart-bjzp-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The authorities have charged a suspect with two gun-related crimes. ",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16-pol-on-politics-newsletter-philbrick-topart-bjzp/16-pol-on-politics-newsletter-philbrick-topart-bjzp-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The authorities have charged a suspect with two gun-related crimes. ",
+          "copyright": "Saul Martinez for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Tense Teamsters Meeting With Harris Ends With an Endorsement Still Dangling",
+      "abstract": "The Teamsters president, Sean O’Brien, indicated he could announce as soon as Wednesday which presidential candidate — if any — the union would back.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/teamsters-harris.html",
+      "uri": "nyt://article/49777a5d-eda5-5692-84e7-da261e50aa0e",
+      "byline": "By Jonathan Weisman",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T18:10:34-04:00",
+      "created_date": "2024-09-16T18:10:34-04:00",
+      "published_date": "2024-09-16T18:10:34-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Organized Labor",
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Endorsements"
+      ],
+      "org_facet": [
+        "International Brotherhood of Teamsters"
+      ],
+      "per_facet": [
+        "Harris, Kamala D",
+        "O'Brien, Sean M",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16pol-teamsters-topart-btlw/16pol-teamsters-topart-btlw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sean O’Brien, the president of the International Brotherhood of Teamsters, speaking at the Republican National Convention in Milwaukee in July. Vice President Kamala Harris met with Mr. O’Brien and other Teamsters leaders on Monday.",
+          "copyright": "Kenny Holston/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16pol-teamsters-topart-btlw/16pol-teamsters-topart-btlw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sean O’Brien, the president of the International Brotherhood of Teamsters, speaking at the Republican National Convention in Milwaukee in July. Vice President Kamala Harris met with Mr. O’Brien and other Teamsters leaders on Monday.",
+          "copyright": "Kenny Holston/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16pol-teamsters-topart-btlw/16pol-teamsters-topart-btlw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Sean O’Brien, the president of the International Brotherhood of Teamsters, speaking at the Republican National Convention in Milwaukee in July. Vice President Kamala Harris met with Mr. O’Brien and other Teamsters leaders on Monday.",
+          "copyright": "Kenny Holston/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Black Voters Matter Says It Will Spend $15 Million in Battleground States",
+      "abstract": "The nonpartisan group will mount a voter mobilization effort that includes radio ads, billboards and on-the-ground canvassing operations, with a focus on early voting.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/black-voters-matter-voting-ads.html",
+      "uri": "nyt://article/3e182ee3-b031-5b51-9fd9-eb69c90f10d3",
+      "byline": "By Maya King",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T17:49:04-04:00",
+      "created_date": "2024-09-16T17:49:04-04:00",
+      "published_date": "2024-09-16T17:49:04-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Black People",
+        "United States Politics and Government",
+        "Campaign Finance"
+      ],
+      "org_facet": [
+        "Black Voters Matter"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16pol-blackvoters-spend-topart-fvtg/16pol-blackvoters-spend-topart-fvtg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Voting during the presidential primary in Michigan in February. A national organization focused on mobilizing Black voters announced on Monday it would spend at least $15 million in battleground states, including Michigan, this year.",
+          "copyright": "Emily Elconin for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16pol-blackvoters-spend-topart-fvtg/16pol-blackvoters-spend-topart-fvtg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Voting during the presidential primary in Michigan in February. A national organization focused on mobilizing Black voters announced on Monday it would spend at least $15 million in battleground states, including Michigan, this year.",
+          "copyright": "Emily Elconin for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16pol-blackvoters-spend-topart-fvtg/16pol-blackvoters-spend-topart-fvtg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Voting during the presidential primary in Michigan in February. A national organization focused on mobilizing Black voters announced on Monday it would spend at least $15 million in battleground states, including Michigan, this year.",
+          "copyright": "Emily Elconin for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Biden Celebrates Investments in Black Colleges While Promoting Harris",
+      "abstract": "At a conference for historically Black colleges and universities in Philadelphia, the president tallied up his administration’s contributions to “H.B.C.U. excellence.”",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/biden-hbcu.html",
+      "uri": "nyt://article/b3e67976-1ece-53b8-89d7-5176a7f47efd",
+      "byline": "By Zach Montague",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T17:29:25-04:00",
+      "created_date": "2024-09-16T16:52:28-04:00",
+      "published_date": "2024-09-16T16:52:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Historically Black Colleges and Universities",
+        "Black People",
+        "United States Politics and Government",
+        "Colleges and Universities",
+        "Race and Ethnicity",
+        "Student Loans",
+        "Presidential Election of 2024"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D"
+      ],
+      "geo_facet": [
+        "Philadelphia (Pa)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16DC-BIDEN-vbwm/16DC-BIDEN-vbwm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden with honor students during the National H.B.C.U. Week Conference in Philadelphia on Monday.",
+          "copyright": "Tom Brenner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16DC-BIDEN-vbwm/16DC-BIDEN-vbwm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden with honor students during the National H.B.C.U. Week Conference in Philadelphia on Monday.",
+          "copyright": "Tom Brenner for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16DC-BIDEN-vbwm/16DC-BIDEN-vbwm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden with honor students during the National H.B.C.U. Week Conference in Philadelphia on Monday.",
+          "copyright": "Tom Brenner for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "How Secret Service Details Are Assigned",
+      "abstract": "Levels of protection depend on a protectee’s position and the assessment of risk.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/secret-service-details.html",
+      "uri": "nyt://article/5f34b274-7473-5e6a-a416-448eaef0094e",
+      "byline": "By Eileen Sullivan",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T23:20:35-04:00",
+      "created_date": "2024-09-16T16:47:11-04:00",
+      "published_date": "2024-09-16T16:47:11-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Assassinations and Attempted Assassinations"
+      ],
+      "org_facet": [
+        "Secret Service",
+        "Homeland Security Department"
+      ],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16DC-EXPLAINER-cktw/16DC-EXPLAINER-cktw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the Secret Service on duty during a speech by former President Donald J. Trump in North Carolina last month.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16DC-EXPLAINER-cktw/16DC-EXPLAINER-cktw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the Secret Service on duty during a speech by former President Donald J. Trump in North Carolina last month.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16DC-EXPLAINER-cktw/16DC-EXPLAINER-cktw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the Secret Service on duty during a speech by former President Donald J. Trump in North Carolina last month.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Body Cam Video Shows Arrest of Suspect in Apparent Trump Assassination Attempt",
+      "abstract": "The video, less than a minute long, shows armed law-enforcement officers ordering the man to walk backward toward them and then handcuffing him.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/trump-assassination-attempt-body-cam.html",
+      "uri": "nyt://article/bdcbf3aa-c2ff-548b-ade3-b11da1d3750b",
+      "byline": "By Anushka Patil",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T19:00:03-04:00",
+      "created_date": "2024-09-16T16:41:52-04:00",
+      "published_date": "2024-09-16T16:41:52-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Assassinations and Attempted Assassinations"
+      ],
+      "org_facet": [
+        "Martin County Sheriffs Office"
+      ],
+      "per_facet": [
+        "Routh, Ryan Wesley",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Martin County (Fla)",
+        "Interstate 95",
+        "West Palm Beach (Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/video/16vid-ryan-routh-arrest-CLIP-COVER/16vid-ryan-routh-arrest-CLIP-COVER-superJumbo.png",
+          "format": "Super Jumbo",
+          "height": 1080,
+          "width": 1620,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Martin County Sheriff's Office via Facebook"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/video/16vid-ryan-routh-arrest-CLIP-COVER/16vid-ryan-routh-arrest-CLIP-COVER-threeByTwoSmallAt2X.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Martin County Sheriff's Office via Facebook"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/video/16vid-ryan-routh-arrest-CLIP-COVER/16vid-ryan-routh-arrest-CLIP-COVER-thumbLarge.png",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Martin County Sheriff's Office via Facebook"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Suspect’s Self-Published Book Assails Trump, Hinting at Approval of His Killing",
+      "abstract": "The book, “Ukraine’s Unwinnable War,” calls the former president a “buffoon” and vents anger over Iran, but saves its most vitriolic language for President Vladimir V. Putin of Russia.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/trump-assassination-suspect-book.html",
+      "uri": "nyt://article/e7607bca-8058-5a88-bf60-8e9926e850c3",
+      "byline": "By Glenn Thrush",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T18:58:32-04:00",
+      "created_date": "2024-09-16T16:04:39-04:00",
+      "published_date": "2024-09-16T16:04:39-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Assassinations and Attempted Assassinations",
+        "United States International Relations",
+        "United States Politics and Government",
+        "Russian Invasion of Ukraine (2022)",
+        "Storming of the US Capitol (Jan, 2021)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Kim Jong-un",
+        "Putin, Vladimir V",
+        "Routh, Ryan Wesley",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "North Korea",
+        "Ukraine",
+        "Florida",
+        "Russia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16dc-investigate-1-wlzm/16dc-investigate-1-wlzm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The man suspected to have planned an attempted assassination of former President Donald J. Trump leaving the federal courthouse Monday in West Palm Beach, Fla.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16dc-investigate-1-wlzm/16dc-investigate-1-wlzm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The man suspected to have planned an attempted assassination of former President Donald J. Trump leaving the federal courthouse Monday in West Palm Beach, Fla.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16dc-investigate-1-wlzm/16dc-investigate-1-wlzm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The man suspected to have planned an attempted assassination of former President Donald J. Trump leaving the federal courthouse Monday in West Palm Beach, Fla.",
+          "copyright": "Saul Martinez for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Intel, Aiming to Reverse Slump, Unveils New Contracts and Cost Cuts",
+      "abstract": "The chipmaker, which has been struggling, said on Monday that it obtained a new government grant, signed a contract with Amazon and would pause some initiatives.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/intel-chips-semiconductor-grant.html",
+      "uri": "nyt://article/d0d1189a-5f68-5108-bfdb-e19424ff7d82",
+      "byline": "By Don Clark, Madeleine Ngo and Ana Swanson",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T23:35:01-04:00",
+      "created_date": "2024-09-16T15:46:24-04:00",
+      "published_date": "2024-09-16T15:46:24-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Computer Chips",
+        "United States Politics and Government",
+        "Federal Aid (US)"
+      ],
+      "org_facet": [
+        "Intel Corporation"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16DC-INTEL-lwcf/16DC-INTEL-lwcf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1367,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The $3 billion in funding that the Biden administration announced Monday follows the award Intel received about six months ago of up to $8.5 billion.",
+          "copyright": "Philip Cheung for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16DC-INTEL-lwcf/16DC-INTEL-lwcf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The $3 billion in funding that the Biden administration announced Monday follows the award Intel received about six months ago of up to $8.5 billion.",
+          "copyright": "Philip Cheung for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16DC-INTEL-lwcf/16DC-INTEL-lwcf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The $3 billion in funding that the Biden administration announced Monday follows the award Intel received about six months ago of up to $8.5 billion.",
+          "copyright": "Philip Cheung for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump, Using Harsh Language, Urges Democrats to Tone Down Theirs",
+      "abstract": "The authorities have not provided information about the gunman’s motive in the apparent assassination attempt on Sunday, yet former President Donald J. Trump, who has his own history of using violent language, sought to blame Democrats.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/trump-blames-democrats-gunman-golf-course.html",
+      "uri": "nyt://article/6420a2c8-e665-554a-8428-d661c6d1f980",
+      "byline": "By Michael Gold and Maggie Astor",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T23:19:22-04:00",
+      "created_date": "2024-09-16T15:06:16-04:00",
+      "published_date": "2024-09-16T15:06:16-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Assassinations and Attempted Assassinations"
+      ],
+      "org_facet": [
+        "Democratic Party"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Harris, Kamala D",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "West Palm Beach (Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16pol-trump-response-topart-pfzg/16pol-trump-response-topart-pfzg-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump during a campaign rally in Mosinee, Wis., earlier this month. Mr. Trump blamed Democrats’ “inflammatory language” for motivating a gunman arrested at one of his golf courses on Sunday.",
+          "copyright": "Jamie Kelter Davis for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16pol-trump-response-topart-pfzg/16pol-trump-response-topart-pfzg-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump during a campaign rally in Mosinee, Wis., earlier this month. Mr. Trump blamed Democrats’ “inflammatory language” for motivating a gunman arrested at one of his golf courses on Sunday.",
+          "copyright": "Jamie Kelter Davis for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16pol-trump-response-topart-pfzg/16pol-trump-response-topart-pfzg-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump during a campaign rally in Mosinee, Wis., earlier this month. Mr. Trump blamed Democrats’ “inflammatory language” for motivating a gunman arrested at one of his golf courses on Sunday.",
+          "copyright": "Jamie Kelter Davis for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump Plans to Keep Campaigning as Scheduled",
+      "abstract": "Donald J. Trump’s travel schedule will not change in the aftermath of an apparent shooting attempt on Sunday, with trips this week planned to Michigan, New York and elsewhere.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/trump-campaigning-shooting.html",
+      "uri": "nyt://article/d8779dd5-17d7-503b-a10a-b2e23b68f4dc",
+      "byline": "By Maggie Haberman and Jonathan Swan",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T23:18:19-04:00",
+      "created_date": "2024-09-16T13:52:50-04:00",
+      "published_date": "2024-09-16T13:52:50-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Assassinations and Attempted Assassinations"
+      ],
+      "org_facet": [
+        "Secret Service"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Sanders, Sarah Huckabee"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/10/12/multimedia/12pol-trump-topart-bglj/12pol-trump-topart-bglj-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump during a campaign rally in Las Vegas on Friday. ",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/10/12/multimedia/12pol-trump-topart-bglj/12pol-trump-topart-bglj-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump during a campaign rally in Las Vegas on Friday. ",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/10/12/multimedia/12pol-trump-topart-bglj/12pol-trump-topart-bglj-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump during a campaign rally in Las Vegas on Friday. ",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Trump, Outrage and the Modern Era of Political Violence",
+      "abstract": "The latest apparent assassination attempt against the former president indicates how much the American political landscape has been shaped by anger stirred by him and against him.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/trump-violence-assassination-attempt.html",
+      "uri": "nyt://article/1229fc7d-97bc-5a2d-ad51-e42cc2e91685",
+      "byline": "By Peter Baker",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T22:50:56-04:00",
+      "created_date": "2024-09-16T13:51:37-04:00",
+      "published_date": "2024-09-16T13:51:37-04:00",
+      "material_type_facet": "",
+      "kicker": "News Analysis",
+      "des_facet": [
+        "United States Politics and Government",
+        "Assassinations and Attempted Assassinations",
+        "Presidential Election of 2024",
+        "Threats and Threatening Messages",
+        "Presidents and Presidency (US)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16DC-TRUMP-qchm/16DC-TRUMP-qchm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump attributed Sunday’s apparent assassination attempt to President Biden and Vice President Kamala Harris, arguing that the arrested suspect was acting in response to their attacks.",
+          "copyright": "Jenna Schoenefeld for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16DC-TRUMP-qchm/16DC-TRUMP-qchm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump attributed Sunday’s apparent assassination attempt to President Biden and Vice President Kamala Harris, arguing that the arrested suspect was acting in response to their attacks.",
+          "copyright": "Jenna Schoenefeld for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16DC-TRUMP-qchm/16DC-TRUMP-qchm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump attributed Sunday’s apparent assassination attempt to President Biden and Vice President Kamala Harris, arguing that the arrested suspect was acting in response to their attacks.",
+          "copyright": "Jenna Schoenefeld for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Suspect in Attempt on Trump’s Life Spent Nearly 12 Hours Near Golf Course, Phone Records Show",
+      "abstract": "Ryan W. Routh’s cellphone was near the former president’s golf club in Florida beginning at 1:59 a.m. on Sunday, according to a federal criminal complaint.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/trump-golf-course-shooting-suspect-phone-records.html",
+      "uri": "nyt://article/64591a24-f0bf-5bb9-ad8b-b6b6b22992fb",
+      "byline": "By Patricia Mazzei and Adam Goldman",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T18:49:28-04:00",
+      "created_date": "2024-09-16T13:32:03-04:00",
+      "published_date": "2024-09-16T13:32:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Assassinations and Attempted Assassinations"
+      ],
+      "org_facet": [
+        "Secret Service"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Routh, Ryan Wesley"
+      ],
+      "geo_facet": [
+        "West Palm Beach (Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16trumpshooting-live-ticktock-1-kmjt/16trumpshooting-live-ticktock-1-kmjt-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The main entrance to Trump International Golf Club in West Palm Beach, Fla., on Sunday.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16trumpshooting-live-ticktock-1-kmjt/16trumpshooting-live-ticktock-1-kmjt-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The main entrance to Trump International Golf Club in West Palm Beach, Fla., on Sunday.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16trumpshooting-live-ticktock-1-kmjt/16trumpshooting-live-ticktock-1-kmjt-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The main entrance to Trump International Golf Club in West Palm Beach, Fla., on Sunday.",
+          "copyright": "Saul Martinez for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Tim Walz, a ‘Snowman Melting,’ Tests His Appeal in the Sun Belt",
+      "abstract": "The Minnesota governor was picked for his appeal to the white working-class. The Harris campaign hopes he can reach other demographics, too.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/tim-walz-sun-belt.html",
+      "uri": "nyt://article/9c40ac47-c157-5172-8ec8-a9976c2efff7",
+      "byline": "By Kellen Browning and Jazmine Ulloa",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T22:47:29-04:00",
+      "created_date": "2024-09-16T12:27:10-04:00",
+      "published_date": "2024-09-16T12:27:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2024"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Walz, Tim",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Arizona",
+        "Las Vegas (Nev)",
+        "Sun Belt States (US)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16pol-walz-sunbelt-2-blfq/16pol-walz-sunbelt-2-blfq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Minnesota Governor Tim Walz speaks at a presidential debate watch party in Mesa, Arizona, last week.",
+          "copyright": "Caitlin O'Hara/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16pol-walz-sunbelt-2-blfq/16pol-walz-sunbelt-2-blfq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Minnesota Governor Tim Walz speaks at a presidential debate watch party in Mesa, Arizona, last week.",
+          "copyright": "Caitlin O'Hara/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16pol-walz-sunbelt-2-blfq/16pol-walz-sunbelt-2-blfq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Minnesota Governor Tim Walz speaks at a presidential debate watch party in Mesa, Arizona, last week.",
+          "copyright": "Caitlin O'Hara/Reuters"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "technology",
+      "subsection": "",
+      "title": "The Chinese Chipmaker at the Heart of the U.S.-China Tech War",
+      "abstract": "Efforts by the Beijing-backed Semiconductor Manufacturing International Corporation, or SMIC, to break through innovation barriers have landed it in a geopolitical tech battle.",
+      "url": "https://www.nytimes.com/2024/09/16/technology/smic-china-us-trade-war.html",
+      "uri": "nyt://article/18ff1ed8-29d5-5744-bf1b-55b476d31e95",
+      "byline": "By Ana Swanson, John Liu and Paul Mozur",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T14:20:20-04:00",
+      "created_date": "2024-09-16T12:15:10-04:00",
+      "published_date": "2024-09-16T12:15:10-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Computer Chips",
+        "International Relations",
+        "Embargoes and Sanctions",
+        "Factories and Manufacturing",
+        "Innovation",
+        "Artificial Intelligence",
+        "United States International Relations",
+        "Corporations",
+        "International Trade and World Market",
+        "Computers and the Internet"
+      ],
+      "org_facet": [
+        "Commerce Department",
+        "Huawei Technologies Co Ltd",
+        "NVIDIA Corporation",
+        "Intel Corporation",
+        "Semiconductor Manufacturing International Corporation"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "China",
+        "Shanghai (China)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/03/multimedia/dc-smic-2-ztmb/dc-smic-2-ztmb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Semiconductor Manufacturing International Corporation’s factories in Shanghai.",
+          "copyright": "Qilai Shen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/03/multimedia/dc-smic-2-ztmb/dc-smic-2-ztmb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 399,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Semiconductor Manufacturing International Corporation’s factories in Shanghai.",
+          "copyright": "Qilai Shen for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/03/multimedia/dc-smic-2-ztmb/dc-smic-2-ztmb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Semiconductor Manufacturing International Corporation’s factories in Shanghai.",
+          "copyright": "Qilai Shen for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "business",
+      "subsection": "economy",
+      "title": "Nevada’s Struggling Economy Is a Wild Card in the Presidential Race",
+      "abstract": "The state is among a handful that will decide the presidential contest, and workers have felt increased prices at the grocery store and gas station.",
+      "url": "https://www.nytimes.com/2024/09/16/business/economy/nevada-economy-unemployment-election.html",
+      "uri": "nyt://article/5ef1ed93-da81-54d8-b165-67feab079e90",
+      "byline": "By Kurtis Lee",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T14:18:36-04:00",
+      "created_date": "2024-09-16T12:14:27-04:00",
+      "published_date": "2024-09-16T12:14:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Economic Conditions and Trends",
+        "Tips and Tipping",
+        "Income Tax",
+        "Labor and Jobs",
+        "Prices (Fares, Fees and Rates)",
+        "Unemployment",
+        "Inflation (Economics)",
+        "Hotels and Travel Lodgings",
+        "Polls and Public Opinion"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Las Vegas (Nev)",
+        "Nevada"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/00nevada-econ01-wlgf/00nevada-econ01-wlgf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Las Vegas has rebounded since the pandemic shutdowns, but its unemployment rate was 6.7 percent in July.",
+          "copyright": "Maggie Shannon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/00nevada-econ01-wlgf/00nevada-econ01-wlgf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Las Vegas has rebounded since the pandemic shutdowns, but its unemployment rate was 6.7 percent in July.",
+          "copyright": "Maggie Shannon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/00nevada-econ01-wlgf/00nevada-econ01-wlgf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Las Vegas has rebounded since the pandemic shutdowns, but its unemployment rate was 6.7 percent in July.",
+          "copyright": "Maggie Shannon for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "upshot",
+      "subsection": "",
+      "title": "State of the Race: Early Signs of a Post-Debate Bounce for Harris",
+      "abstract": "It could be another week until the full scope of possible gains is evident.",
+      "url": "https://www.nytimes.com/2024/09/16/upshot/polls-harris-trump-debate.html",
+      "uri": "nyt://article/914863f2-7d9b-5d13-a778-aa0d837773db",
+      "byline": "By Nate Cohn",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T13:20:51-04:00",
+      "created_date": "2024-09-16T11:47:23-04:00",
+      "published_date": "2024-09-16T11:47:23-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Polls and Public Opinion",
+        "United States Politics and Government",
+        "Debates (Political)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/2024-09-13-sotr-promos-index/2024-09-13-sotr-promos-index-superJumbo-v5.png",
+          "format": "Super Jumbo",
+          "height": 1329,
+          "width": 1990,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/2024-09-13-sotr-promos-index/2024-09-13-sotr-promos-index-threeByTwoSmallAt2X-v5.png",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/2024-09-13-sotr-promos-index/2024-09-13-sotr-promos-index-thumbWide-v5.png",
+          "format": "Wide Thumbnail",
+          "height": 126,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Elon Musk Writes, Then Deletes, a Post Musing About Threats to Biden and Harris",
+      "abstract": "His remark, just hours after what the authorities said was a second assassination attempt on Donald J. Trump, immediately drew outrage.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/musk-deleted-tweet-biden-kamala.html",
+      "uri": "nyt://article/81b9bda4-cb3f-5fba-90d1-6d7198985d09",
+      "byline": "By Matthew Mpoke Bigg",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T13:05:06-04:00",
+      "created_date": "2024-09-16T08:53:41-04:00",
+      "published_date": "2024-09-16T08:53:41-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Social Media",
+        "Assassinations and Attempted Assassinations",
+        "Cyberharassment",
+        "Presidential Election of 2024"
+      ],
+      "org_facet": [
+        "X (Formerly Twitter)"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D",
+        "Musk, Elon",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16trump-shooting-musk-ztvp/16trump-shooting-musk-ztvp-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk, the owner of the social media platform X, appeared to ask why “no one is even trying to assassinate Biden/Kamala.”",
+          "copyright": "Gonzalo Fuentes/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16trump-shooting-musk-ztvp/16trump-shooting-musk-ztvp-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk, the owner of the social media platform X, appeared to ask why “no one is even trying to assassinate Biden/Kamala.”",
+          "copyright": "Gonzalo Fuentes/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16trump-shooting-musk-ztvp/16trump-shooting-musk-ztvp-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Elon Musk, the owner of the social media platform X, appeared to ask why “no one is even trying to assassinate Biden/Kamala.”",
+          "copyright": "Gonzalo Fuentes/Reuters"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "In Senate, Democrats Hope 2024 Will Be a Record Year for Black Women",
+      "abstract": "With Vice President Kamala Harris at the top of the ticket and Senate seats open, Democrats could for the first time send two Black women to the chamber.",
+      "url": "https://www.nytimes.com/2024/09/16/us/politics/senate-democrats-black-women.html",
+      "uri": "nyt://article/e249ce13-2999-5e5a-b132-261d99f76005",
+      "byline": "By Annie Karni",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T23:22:57-04:00",
+      "created_date": "2024-09-16T05:04:28-04:00",
+      "published_date": "2024-09-16T05:04:28-04:00",
+      "material_type_facet": "",
+      "kicker": "Campaign Memo",
+      "des_facet": [
+        "United States Politics and Government",
+        "Black People",
+        "Women and Girls",
+        "Presidential Election of 2024",
+        "Elections, Senate",
+        "Records and Achievements"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Alsobrooks, Angela",
+        "Blunt Rochester, Lisa",
+        "Butler, Laphonza",
+        "Harris, Kamala D"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16dc-senate-blackwomen-01-qptw/16dc-senate-blackwomen-01-qptw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Lisa Blunt Rochester, a Senate candidate in Delaware, speaking at the Democratic National Convention last month. “To know that you’re going to be in a place and belong” was invaluable, she said on Friday.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16dc-senate-blackwomen-01-qptw/16dc-senate-blackwomen-01-qptw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Lisa Blunt Rochester, a Senate candidate in Delaware, speaking at the Democratic National Convention last month. “To know that you’re going to be in a place and belong” was invaluable, she said on Friday.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/16/multimedia/16dc-senate-blackwomen-01-qptw/16dc-senate-blackwomen-01-qptw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Lisa Blunt Rochester, a Senate candidate in Delaware, speaking at the Democratic National Convention last month. “To know that you’re going to be in a place and belong” was invaluable, she said on Friday.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "business",
+      "subsection": "energy-environment",
+      "title": "Big Energy Issue in Pennsylvania Is Low Natural Gas Prices. Not Fracking.",
+      "abstract": "Energy businesses and farmers in western Pennsylvania are struggling because of prices, an issue that has not figured prominently in the campaigns of Donald J. Trump and Kamala Harris.",
+      "url": "https://www.nytimes.com/2024/09/16/business/energy-environment/pennsylvania-fracking-natural-gas-trump-harris.html",
+      "uri": "nyt://article/23b3c7f6-7b5c-5126-a996-370dbe462632",
+      "byline": "By Rebecca F. Elliott",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T10:51:02-04:00",
+      "created_date": "2024-09-16T05:03:15-04:00",
+      "published_date": "2024-09-16T05:03:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Prices (Fares, Fees and Rates)",
+        "Oil (Petroleum) and Gasoline",
+        "Presidential Election of 2024",
+        "Natural Gas",
+        "Hydraulic Fracturing",
+        "Federal-State Relations (US)",
+        "United States Politics and Government",
+        "Agriculture and Farming",
+        "Labor and Jobs",
+        "Royalties",
+        "Global Warming",
+        "Regulation and Deregulation of Industry",
+        "Infrastructure (Public Works)",
+        "Production",
+        "Pipelines",
+        "Coal",
+        "Land Use Policies",
+        "Shale",
+        "Steel and Iron"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Pennsylvania",
+        "Marcellus Shale",
+        "Appalachian Region"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/16penn-fracking-hp-promo1/00penn-fracking-01-hmvb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Natural gas equipment in Washington County, Pa. For many voters in southwestern Pennsylvania, the question is how to build the infrastructure to get natural gas to places where it will fetch higher prices.",
+          "copyright": "Justin Merriman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/16penn-fracking-hp-promo1/16penn-fracking-hp-promo1-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Natural gas equipment in Washington County, Pa. For many voters in southwestern Pennsylvania, the question is how to build the infrastructure to get natural gas to places where it will fetch higher prices.",
+          "copyright": "Justin Merriman for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/16penn-fracking-hp-promo1/00penn-fracking-01-hmvb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Natural gas equipment in Washington County, Pa. For many voters in southwestern Pennsylvania, the question is how to build the infrastructure to get natural gas to places where it will fetch higher prices.",
+          "copyright": "Justin Merriman for The New York Times"
+        }
+      ],
+      "short_url": ""
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "New York Times Reporter Revisits Earlier Interview With Suspect at Trump Golf Course",
+      "abstract": "Ryan Wesley Routh wanted to fly Afghan veterans to fight against Russia in Ukraine, an endeavor he seemed ill prepared to orchestrate.",
+      "url": "https://www.nytimes.com/2024/09/15/us/politics/trump-routh-ukraine-interview.html",
+      "uri": "nyt://article/1ea25afb-f7f5-5873-8da1-5fbdba9ca782",
+      "byline": "By Thomas Gibbons-Neff",
+      "item_type": "Article",
+      "updated_date": "2024-09-16T09:40:03-04:00",
+      "created_date": "2024-09-15T23:42:12-04:00",
+      "published_date": "2024-09-15T23:42:12-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Assassinations and Attempted Assassinations",
+        "Russian Invasion of Ukraine (2022)",
+        "Murders, Attempted Murders and Homicides"
+      ],
+      "org_facet": [
+        "Federal Bureau of Investigation"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Routh, Ryan Wesley"
+      ],
+      "geo_facet": [
+        "Afghanistan",
+        "Ukraine",
+        "Russia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2024/10/15/multimedia/15election-live-suspect-interview-lkcm/15election-live-suspect-interview-lkcm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "F.B.I. agents outside the Trump International Golf Club in West Palm Beach, Fla., on Sunday evening.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/10/15/multimedia/15election-live-suspect-interview-lkcm/15election-live-suspect-interview-lkcm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "F.B.I. agents outside the Trump International Golf Club in West Palm Beach, Fla., on Sunday evening.",
+          "copyright": "Saul Martinez for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2024/10/15/multimedia/15election-live-suspect-interview-lkcm/15election-live-suspect-interview-lkcm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "F.B.I. agents outside the Trump International Golf Club in West Palm Beach, Fla., on Sunday evening.",
+          "copyright": "Saul Martinez for The New York Times"
+        }
+      ],
+      "short_url": ""
+    }
+  ]
+}
