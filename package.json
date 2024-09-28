@@ -1,8 +1,21 @@
 {
+  "name": "streamline_news",
+  "version": "1.0.0",
+  "description": "Cloning New York times using API",
+  "build": "parcel build --public-url https://r4lp061.github.io/streamline_news src/index.html",
   "scripts": {
-    "start": "servor --reload"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "servor": "^4.0.2"
-  }
+  "keywords": [],
+  "author": "Ralp Clarence Chica",
+  "license": "ISC",
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r4lp061/Streamline_News.git"
+  },
+  "bugs": {
+    "url": "https://github.com/r4lp061/Streamline_News/issues"
+  },
+  "homepage": "https://github.com/r4lp061/Streamline_News#readme"
 }
