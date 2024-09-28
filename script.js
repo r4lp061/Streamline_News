@@ -5,19 +5,13 @@ const businessBtn = document.getElementById('business')
 const technologyBtn = document.getElementById('technology')
 const sportsBtn = document.getElementById('sports')
 
-const worldUrl = 'world.json'
-const politicsUrl = 'politics.json'
-const businessUrl = 'business.json'
-const technologyUrl = 'technology.json'
-const sportsUrl = 'sports.json'
-const opinionsUrl = 'opinion.json' 
 
-// const worldUrl = 'https://api.nytimes.com/svc/topstories/v2/world.json?api-key=y2RVjaIsgoQ8t5eGEzi5KuSGmYOAwr9I'
-// const politicsUrl = 'https://api.nytimes.com/svc/topstories/v2/politics.json?api-key=y2RVjaIsgoQ8t5eGEzi5KuSGmYOAwr9I'
-// const businessUrl = 'https://api.nytimes.com/svc/topstories/v2/business.json?api-key=y2RVjaIsgoQ8t5eGEzi5KuSGmYOAwr9I'
-// const technologyUrl = 'https://api.nytimes.com/svc/topstories/v2/technology.json?api-key=y2RVjaIsgoQ8t5eGEzi5KuSGmYOAwr9I'
-// const sportsUrl = 'https://api.nytimes.com/svc/topstories/v2/sports.json?api-key=y2RVjaIsgoQ8t5eGEzi5KuSGmYOAwr9I'
-// const opinionsUrl = 'https://api.nytimes.com/svc/topstories/v2/opinion.json?api-key=y2RVjaIsgoQ8t5eGEzi5KuSGmYOAwr9I'
+const worldUrl = 'https://api.nytimes.com/svc/topstories/v2/world.json?api-key=y2RVjaIsgoQ8t5eGEzi5KuSGmYOAwr9I'
+const politicsUrl = 'https://api.nytimes.com/svc/topstories/v2/politics.json?api-key=y2RVjaIsgoQ8t5eGEzi5KuSGmYOAwr9I'
+const businessUrl = 'https://api.nytimes.com/svc/topstories/v2/business.json?api-key=y2RVjaIsgoQ8t5eGEzi5KuSGmYOAwr9I'
+const technologyUrl = 'https://api.nytimes.com/svc/topstories/v2/technology.json?api-key=y2RVjaIsgoQ8t5eGEzi5KuSGmYOAwr9I'
+const sportsUrl = 'https://api.nytimes.com/svc/topstories/v2/sports.json?api-key=y2RVjaIsgoQ8t5eGEzi5KuSGmYOAwr9I'
+const opinionsUrl = 'https://api.nytimes.com/svc/topstories/v2/opinion.json?api-key=y2RVjaIsgoQ8t5eGEzi5KuSGmYOAwr9I'
 
 worldBtn.addEventListener("click", function() {
     window.location.hash = "#world";
