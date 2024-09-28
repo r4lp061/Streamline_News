@@ -32,6 +32,10 @@ header {
     font-weight: bold;
 }
 
+nav {
+    width: 100%;
+}
+
 nav ul {
     padding-left: 500px;
     list-style: none;
