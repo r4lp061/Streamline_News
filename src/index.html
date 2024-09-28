@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Streamline News</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+
+</head>
+<body>
+    <header>
+        <div class="logo">Streamline News</div>
+        <div id="search-container">
+            <input type="text" id="search-query" placeholder="Search here...">
+            <button type="submit" id="search-Btn">Search</button>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#world" id="world">World</a></li>
+                <li><a href="#politics" id="politics">Politics</a></li>
+                <li><a href="#business" id="business">Business</a></li>
+                <li><a href="#technology" id="technology">Technology</a></li>
+                <li><a href="#sports" id="sports">Sports</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="headline-section">
+        <a id="headline-link" href="" target="_blank" class="headline-content">
+            <div class="headline-image-container">
+                <img id="headline-image" src="Image/citation.png" alt="Headline Image">
+                <div class="headline-overlay">
+                    <h1>
+                        <span id="headline-title">Loading...</span>
+                    </h1>
+                    <p id="headline-description">Fetching the latest news, please wait...</p>
+                </div>
+            </div>
+        </a>
+        <p id="headline-author"></p>
+
+    </section>
+    
+    <section class="content-container">
+        <div class="main-content" id="articles-section">
+            <!-- Articles will be loaded here dynamically -->
+        </div>
+
+        <aside class="opinion-section" id="opinionSection">
+            <!-- Opinions will be loaded here dynamically -->
+        </aside>
+    </section>  
+
+    <footer>
+        <p><span id="copyright"></span> For educational purposes only.</p>
+        <img src="Image/citation.png" alt="copyright">
+    </footer>
+
+</body>
+</html>
